@@ -18,23 +18,62 @@ header{
 }
 
 .pageview{
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
     width:100%;
     position:relative;
     padding:30px 0 10px 0;
-    height:87px;
-    @include background(image-url('navigation-background.png')repeat);
+
+    &.scroll-navigation{
+        @include background(image-url('navigation-background.png')repeat);
+        position:fixed;
+        height:87px;
+
+        .icon-swell-logo:before {
+            content: "\e600";
+            font-size:250px;
+            position:absolute;
+            top:-83px;
+            left:-40px;
+        }
+
+        ul.main-navigation{
+            li a{
+                &.icon-shop:before{
+                    top:30px;
+                }
+            }
+        }
+    }
+
+    &.static-navigation{
+        background-color:white;
+        height:105px;
+
+        .inner{
+            padding-top:5px;
+        }
+
+        .icon-swell-logo:before {
+            content: "\e613";
+            font-size:250px;
+            position:absolute;
+            top:-75px;
+            left:-40px;
+        }
+
+        ul.main-navigation{
+            li a{
+                &.icon-shop:before{
+                    top:35px;
+                }
+            }
+        }
+    }
 
     .inner{
         padding:0.15%;
     }
-}
-
-.icon-swell-logo:before {
-    content: "\e600";
-    font-size:250px;
-    position:absolute;
-    top:-83px;
-    left:-40px;
 }
 
 //Desktop Navigation
@@ -76,7 +115,6 @@ header{
                         display:block;
                         content: "\e604";
                         position:absolute;
-                        top:30px;
                         font-size:30px;
                         margin-left:-26px;
                     }
@@ -416,7 +454,9 @@ header{
 
 //Thumbnail images
 .thumbnail-buttons{
+
     .thumb{
+        margin-top:35px;
         width:49%;
         float:left;
         position:relative;
@@ -456,6 +496,7 @@ header{
             padding-bottom:56.25%;
             text-indent:-9999px;
             z-index:1000;
+            left:0;
         }
 
         .steps-link{
@@ -532,7 +573,7 @@ header{
             color:$body;
             &:hover{
                 h2{
-                    color:$bright-orange;
+                    color:$gold;
                 }
             }
         }
@@ -587,7 +628,7 @@ header{
             &.icon-curly, &.icon-bleached, &.icon-supersoft, &.icon-hairloss, &.icon-facts, &.icon-shampoo{
                 &:before{
                     position:absolute;
-                    color:$bright-orange;
+                    color:$gold;
                     font-size:120px;
                     left:-110px;
                     top:-25px;
@@ -754,6 +795,52 @@ footer{
         }
     }
 
+    .social-media-icons{
+        position:relative;
+        height:30px;
+        margin-bottom:25px;
+
+        ul{
+            margin-left:-30px;
+            li{
+                list-style:none;
+                display:inline-block;
+                width:30px;
+                margin-left:2%;
+                &:first-child{
+                    margin-left:0;
+                }
+                a{
+                    &:hover{
+                      &.icon-facebook, &.icon-twitter, &.icon-youtube{
+                        &:before{
+                            color:$bright-orange;
+                        }
+                      }
+                    }
+
+                    &.icon-facebook:before{
+                        content:"\e616";
+                    }
+                    &.icon-twitter:before{
+                        content:"\e614";
+                    }
+                    &.icon-youtube:before{
+                        content:"\e615";
+                    }
+                    &.icon-facebook, &.icon-twitter, &.icon-youtube{
+                        &:before{
+                            position:absolute;
+                            color:$medium-grey;
+                            font-size:30px;
+                            top:0px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
     .copyright{
         p, a{
             color:$medium-grey;
@@ -874,6 +961,12 @@ footer{
 }
 
 @media only screen and (max-width:768px){
+    .pageview{
+        &.scroll-navigation{
+            position:static;
+        }
+    }
+
     .expert-advice{
         .inner{
             h1{
@@ -978,6 +1071,7 @@ footer{
     .thumbnail-buttons{
         .thumb{
             width:100%;
+            margin-top:0px;
         }
     }
 

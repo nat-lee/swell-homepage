@@ -11,6 +11,19 @@ $(document).ready(function() {
      }
   });
 
+  //scrolling header
+  $(window).scroll(function(){
+    var scroll = $(window).scrollTop();
+    if(scroll >= 120){
+      $('.pageview').addClass('scroll-navigation');
+      $('.pageview').removeClass('static-navigation');
+    }else{
+      $('.pageview').addClass('static-navigation');
+      $('.pageview').removeClass('scroll-navigation');
+    }
+  });
+
+
   //mobile navigation burger button
   $('#nav_button').click(function(){
     $('#nav_primary').trigger("open.mm");
