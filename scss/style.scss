@@ -1,0 +1,1004 @@
+@import "compass";
+@import "normalise";
+@import "base";
+@import "bootstrap";
+
+//Navigation
+header{
+    position:relative;
+    z-index:2000;
+}
+
+.pageview, .pageview .inner, #nav_primary{
+    &:after{
+        display:block;
+        clear:both;
+        content:"";
+    }
+}
+
+.pageview{
+    width:100%;
+    position:relative;
+    padding:30px 0 10px 0;
+    height:87px;
+    @include background(image-url('navigation-background.png')repeat);
+
+    .inner{
+        padding:0.15%;
+    }
+}
+
+.icon-swell-logo:before {
+    content: "\e600";
+    font-size:250px;
+    position:absolute;
+    top:-83px;
+    left:-40px;
+}
+
+//Desktop Navigation
+#nav_primary{
+    width:90%;
+    float:right;
+    display:block;
+
+    ul{
+        li{
+            display:inline-block;
+            font-size:15px;
+            @extend.helvetica;
+            a{
+                color:$body;
+                text-decoration:none;
+                text-transform:uppercase;
+            }
+        }
+    }
+
+    ul.main-navigation{
+        float:right;
+        width:84.770437%;
+        max-width:640px;
+        li{
+            display:inline-block;
+            margin-left:3.157895%;
+            &:first-child{
+                margin-left:0;
+            }
+            a{
+                &:hover{
+                    color:$bright-orange;
+                }
+                &.icon-shop{
+                    color:$bright-orange;
+                    &:before{
+                        display:block;
+                        content: "\e604";
+                        position:absolute;
+                        top:30px;
+                        font-size:30px;
+                        margin-left:-26px;
+                    }
+                }
+            }
+        }
+
+        .basket{
+            &:after{
+                content:"|";
+                margin-left:8px;
+                color:$line-grey;
+            }
+        }
+
+        #CHSoLT{
+            margin-left:8px;
+        }
+    }
+
+    ul.social-media{
+        float:right;
+        margin-left:45px;
+        margin-top:-15px;
+        li{
+            margin:0 0 0 -25px;
+            a{
+                float:left;
+                &:before{
+                    display:block;
+                    font-size:50px;
+                }
+                .text{
+                    display:none;
+                }
+                &:hover{
+                    &:before{
+                        color:$bright-orange;
+                    }
+                }
+                &.icon-facebook:before{
+                    content: "\e602";
+                }
+                &.icon-twitter:before{
+                    content: "\e601";
+                    display:block;
+                }
+                &.icon-youtube:before{
+                    content: "\e603";
+                    display:block;
+                }
+            }
+        }
+    }
+}
+
+//Mobile Navigation
+#nav_button{
+    float:right;
+    display:none;
+    text-decoration:none;
+    font-size:50px;
+    margin:-13px 10px 0 0;
+    color:$body;
+
+    &:hover{
+        color:$bright-orange;
+    }
+
+    &.icon-menu-burger:before {
+    content: "\e605";
+    }
+}
+
+
+#mm-nav_primary{
+    &.mm-menu{
+        background:$body;
+    }
+    ul{
+        li{
+            a{
+                @extend.helvetica;
+                font-weight:normal;
+                text-transform:uppercase;
+
+                &.icon-shop{
+                    color:$bright-orange;
+                }
+            }
+        }
+    }
+}
+
+//Homepage Slider & Testimonial Slider
+
+.home-slider{
+    margin-top:-87px;
+}
+
+.home-slider, .testimonial-slider{
+    position:relative;
+    float:left;
+    width:100%;
+
+    ul{
+        width:100% !important;
+
+        &.mc-cycle{
+            position:static !important;
+        }
+
+        .mc-image{
+            width:100% !important;
+        }
+
+        li{
+            img{
+                width:100%;
+            }
+        }
+    }
+
+    .cycle-slideshow{
+        position:relative;
+    }
+
+    .slider-content{
+        position:absolute;
+        z-index:3000;
+        top:35%;
+        left:15.789473%;
+        width:40%;
+        max-width:430px;
+
+        h1{
+            color:white;
+            text-transform:uppercase;
+            font-size:90px;
+            line-height:80px;
+            @extend.helvetica;
+            letter-spacing:4px;
+            z-index:100;
+
+            .light{
+                font-weight:200;
+                font-size:80px;
+            }
+        }
+
+        p{
+            color:white;
+            font-size:16px;
+            line-height:21px;
+            margin:15px 0 0 0;
+            @extend.helvetica;
+            font-weight:200;
+            text-transform:uppercase;
+            z-index:100;
+        }
+
+        .button{
+            float:left;
+            margin:25px 0 0 0;
+            cursor:pointer;
+            z-index:3000;
+        }
+    }
+
+    //Slider Navigation
+    .arrows{
+        height:106px;
+        width:100%;
+        position:absolute;
+        z-index:2000;
+        top:55%;
+        margin-top:-100px;
+
+        .icon-arrow-left, .icon-arrow-right{
+            position:absolute;
+            text-decoration:none;
+        }
+
+        .icon-arrow-left{
+            left:0;
+        }
+
+        .icon-arrow-right{
+            right:0;
+        }
+
+        .icon-arrow-left:before, .icon-arrow-right:before{
+            color:white;
+            font-size:200px;
+        }
+
+        .icon-arrow-left:before{
+            content: "\e606";
+        }
+
+        .icon-arrow-right:before {
+            content: "\e607";
+        }
+    }
+
+    .slider-nav, .testimonial-nav{
+        position:absolute;
+        bottom:30px;
+        left:50%;
+        z-index:1000;
+        margin-left:-55px;
+
+        a{
+            width:20px;
+            height:4px;
+            background-color:white;
+            text-indent:-99999px;
+            float:left;
+            margin-left:10px;
+            &:first-child{
+                margin-left:0px;
+            }
+            &.activeSlide{
+                background-color:$aqua;
+            }
+        }
+    }
+
+    .testimonial-nav{
+        a{
+            border-radius:50%;
+            height:16px;
+            width:16px;
+        }
+    }
+}
+
+.icon-down-button{
+    position:absolute;
+    bottom:0;
+    left:50%;
+    margin-left:-40px;
+    bottom:115px;
+
+    &:before{
+        content: "\e612";
+        color:white;
+        position:absolute;
+        font-size:80px;
+        z-index:1000;
+    }
+}
+
+//Small Details Banner
+.small-detail-banner{
+    width:100%;
+    background-color:$cream;
+    padding:0 1%;
+    border-bottom:2px solid $light-grey;
+    float:left;
+
+    .half{
+        padding:15px 0;
+        color:$aqua;
+        font-size:17px;
+        position:relative;
+        width:50%;
+        float:left;
+        &:first-child{
+            border-right:2px solid $light-grey;
+        }
+        &:after{
+            content:"";
+            display:block;
+            clear:both;
+        }
+        p{
+            letter-spacing:0;
+            .strikethrough{
+                text-decoration: line-through;
+            }
+        }
+    }
+
+    .delivery{
+        p{
+            float:right;
+            margin-right:8.421052%;
+            position:relative;
+        }
+        .icon-delivery:before{
+            content: "\e60a";
+            font-size:87px;
+            position:absolute;
+            top:-35px;
+            left:-75px;
+        }
+    }
+
+    .advice{
+        ul{
+            margin-left:8.421052%;
+            li{
+                list-style:none;
+                display:inline-block;
+
+                a{
+                    color:$aqua;
+                }
+
+                .icon-phone, .icon-email{
+                    padding-left:55px;
+                    position:relative;
+
+                    &:before{
+                        left:2px;
+                        position:absolute;
+                        top:-19px;
+                    }
+                }
+
+                .icon-phone:before, .icon-email:before{
+                    display:block;
+                    font-size:58px;
+                    position:absolute;
+                }
+                .icon-phone:before{
+                    content: "\e609";
+                }
+                .icon-email:before{
+                    content: "\e608";
+                }
+            }
+        }
+    }
+}
+
+//Thumbnail images
+.thumbnail-buttons{
+    .thumb{
+        width:49%;
+        float:left;
+        position:relative;
+
+        &:first-child{
+            margin-right:2%;
+        }
+
+        &.video{
+             background:$body;
+             &:hover{
+                .video-image{
+                    opacity:0.5;
+                }
+             }
+        }
+
+        &.steps:hover{
+            .steps-link{
+                display:block;
+            }
+        }
+
+        .video-image{
+            @include background(image-url('video-image.jpg')no-repeat);
+        }
+
+
+        .steps-image{
+            @include background(image-url('swell-steps.jpg')no-repeat);
+        }
+
+        .video-link, .steps-link{
+            width:100%;
+            float:left;
+            position:absolute;
+            padding-bottom:56.25%;
+            text-indent:-9999px;
+            z-index:1000;
+        }
+
+        .steps-link{
+            display:none;
+            @include background(image-url('swell-steps-hover.png')no-repeat);
+        }
+
+        .video-image, .steps-image, .steps-link{
+            float:left;
+            width:100%;
+            background-size:contain;
+            padding-bottom:56.25%;
+            text-indent:-99999px;
+        }
+    }
+}
+
+//Expert Advice For Your Hair Section
+.expert-advice{
+    @include background(image-url('light-grey-circle-background.png')no-repeat $cream);
+    background-position:bottom right;
+    width:100%;
+    float:left;
+    margin-top:35px;
+
+    .inner{
+        padding:80px 14.175438%;
+         text-align:center;
+
+         &:after{
+            content:"";
+            display:block;
+            clear:both;
+         }
+    }
+
+    h1{
+        font-size:35px;
+        line-height:55px;
+        color:$body;
+        text-transform:uppercase;
+        border-bottom:1px solid $line-grey;
+        display:inline;
+
+        .light{
+            font-weight:200;
+        }
+    }
+
+    .panel{
+        &.top{
+            border-bottom:1px solid $line-grey;
+            &:after{
+                content:"";
+                display:block;
+                clear:both;
+            }
+        }
+
+        &.top, &.bottom{
+            margin-top:65px;
+        }
+
+        .half{
+            width:47.796278%;
+            float:left;
+            position:relative;
+            &:first-child{
+                margin-right:4.407444%;
+            }
+        }
+
+        a{
+            color:$body;
+            &:hover{
+                h2{
+                    color:$bright-orange;
+                }
+            }
+        }
+
+        .advice{
+            width:78.68852%;
+            float:right;
+            text-align:left;
+            margin-bottom:40px;
+            position:relative;
+            min-height:100px;
+
+            h2{
+                font-size:22px;
+                line-height:26px;
+                text-transform:uppercase;
+                margin-bottom:5px;
+                float:left;
+            }
+
+            p{
+                font-size:15px;
+                line-height:20px;
+                font-weight:200;
+                float:left;
+            }
+
+            &.icon-curly:before{
+                content: "\e60c";
+            }
+
+            &.icon-bleached:before{
+                content: "\e610";
+            }
+
+            &.icon-supersoft:before{
+                content: "\e60e";
+            }
+
+            &.icon-hairloss:before{
+                content: "\e60b";
+            }
+
+            &.icon-facts:before{
+                content: "\e60d";
+            }
+
+            &.icon-shampoo:before{
+                content: "\e60f";
+            }
+
+            &.icon-curly, &.icon-bleached, &.icon-supersoft, &.icon-hairloss, &.icon-facts, &.icon-shampoo{
+                &:before{
+                    position:absolute;
+                    color:$bright-orange;
+                    font-size:120px;
+                    left:-110px;
+                    top:-25px;
+                }
+            }
+        }
+    }
+}
+
+//Swell Logo slogans
+.swell-slogans{
+    width:100%;
+    background:white;
+    float:left;
+    position:relative;
+    height:62px;
+
+    .inner{
+        width:68.771929%;
+        position:absolute;
+        left:50%;
+        margin-left:-34.3859645%;
+        display:block;
+
+
+
+        &:after{
+            clear:both;
+            display:block;
+            content:"";
+        }
+
+        img{
+            float:left;
+            margin-left:2.44897957%;
+            &.natural-source, &.great-britain{
+                width:23.4693878%;
+                max-width:230px;
+            }
+            &.no-silicones{
+                width:23.9795918%;
+                max-width:235px;
+            }
+            &.free-shipping{
+                width:21.7346939%;
+                max-width:213px;
+            }
+            &:first-child{
+                margin-left:0;
+            }
+        }
+    }
+}
+
+//Proud Partner Logos
+.partner-logos{
+    width:100%;
+    background:white;
+    float:left;
+
+    p{
+        text-align:center;
+        font-size:14px;
+        line-height:19px;
+
+        &.loved-by{
+            margin-top:40px;
+        }
+    }
+
+    .inner{
+        width:63.157895%;
+        margin:0 auto;
+        display:block;
+        padding:40px 0 50px 0;
+
+        img{
+        margin:20px auto 0 auto;
+        display:block;
+        width:100%;
+        max-width:901px;
+        }
+    }
+}
+
+//footer
+footer{
+    width:100%;
+    background:$body;
+    float:left;
+    text-align:center;
+
+    &:after{
+        clear:both;
+        content:"";
+        display:block;
+    }
+
+    .inner{
+        width:40%;
+        margin:0 auto;
+        display:block;
+        padding:45px 0;
+    }
+
+    .summary_social{
+        p{
+            color:$aqua;
+            font-size:17px;
+            font-weight:200;
+        }
+    }
+
+    form{
+        width:297px;
+        margin:20px auto 30px auto;
+        display:block;
+
+        input{
+            width:262px;
+            background:$body;
+            border:1px solid $medium-grey;
+            padding:10px;
+            font-size:13px;
+            color:$medium-grey;
+            height:35px;
+            float:left;
+        }
+
+        button{
+            float:left;
+            width:35px;
+            border-radius:0;
+            border:none;
+            height:35px;
+            margin-left:-4px;
+            position:relative;
+            cursor:pointer;
+
+            &:hover{
+                background-color:$bright-orange;
+
+                &:before{
+                    color:white;
+                }
+            }
+
+            &:before{
+                content: "\e611";
+                position:absolute;
+                display:block;
+                z-index:100;
+                font-size:20px;
+                top:8px;
+                left:7px;
+                color:$body;
+            }
+        }
+
+        &:after{
+            display:block;
+            content:"";
+            clear:both;
+        }
+    }
+
+    .copyright{
+        p, a{
+            color:$medium-grey;
+            font-size:13px;
+            font-weight:200;
+            text-decoration:none;
+        }
+        a:hover{
+            color:$bright-orange;
+        }
+    }
+}
+
+
+//Media Queries
+@media only screen and (max-width:1024px){
+    .home-slider, .testimonial-slider{
+        height:500px;
+
+        .mc-image{
+            height:500px !important;
+        }
+
+        .arrows{
+            display:none;
+        }
+    }
+
+    .home-slider{
+        .slider-content{
+            top:25%;
+        }
+    }
+
+    .small-detail-banner{
+        .half{
+            width:100%;
+            height:50px;
+
+            &:first-child{
+                border-right:none;
+                border-bottom:1px solid $light-grey;
+            }
+
+            .icon-delivery{
+                float:none;
+                margin:0 auto;
+                text-align:center;
+
+                &:before{
+                    display:none;
+                }
+            }
+
+            &.advice{
+                ul{
+                    display:block;
+                    margin:0 auto;
+                    text-align:center;
+                }
+            }
+        }
+    }
+
+    .expert-advice{
+        .inner{
+            .advice{
+                min-height:120px;
+            }
+        }
+    }
+}
+
+@media only screen and (max-width:960px){
+    #nav_button{
+        display:block;
+    }
+    #nav_primary{
+        display:none;
+    }
+
+    .home-slider{
+        .slider-content{
+            display:none;
+
+            h1{
+                font-size:65px;
+                line-height:60px;
+
+                .light{
+                    font-size:58px;
+                }
+            }
+
+            p{
+                font-size:16px;
+                line-height:21px;
+            }
+        }
+    }
+
+    .expert-advice{
+        .inner{
+            padding:40px 5%;
+        }
+        .panel{
+            &.top{
+                margin-top:45px;
+            }
+            .half{
+                h2{
+                    font-size:18px;
+                    line-height:23px;
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (max-width:768px){
+    .expert-advice{
+        .inner{
+            h1{
+                font-size:25px;
+                line-height:35px;
+            }
+        }
+        .panel{
+            .half{
+                width:100%;
+            }
+            .advice{
+                width:85%;
+            }
+        }
+    }
+
+    .swell-slogans{
+        height:auto;
+        .inner{
+            width:90%;
+            padding:20px 0;
+            position:static;
+            margin:0 auto;
+            left:0;
+
+            img{
+                float:none;
+                margin:0 auto;
+                display:block;
+
+                &:first-child{
+                    margin-left:auto;
+                }
+                &.natural-source{
+                    width:230px;
+                }
+                &.no-silicones{
+                    width:235px;
+                }
+                &.great-britain{
+                    width:230px;
+                }
+                &.free-shipping{
+                    width:213px;
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (max-width:600px){
+    .pageview{
+        background:$light-grey;
+    }
+
+    .home-slider{
+        height:400px;
+        margin-top:0px;
+
+        .slider-overlay{
+        @include background(image-url('black-overlay.png')repeat);
+        height:400px;
+        width:100%;
+        display:block;
+        }
+
+        .mc-image{
+            height:400px !important;
+        }
+
+        .slider-content{
+            width:75%;
+            top:15%;
+
+            h1{
+                font-size:45px;
+                line-height:40px;
+                .light{
+                    font-size:40px;
+                }
+            }
+        }
+    }
+
+    .small-detail-banner{
+        .half{
+            &.advice{
+                ul{
+                    .icon-phone, .icon-email{
+                        padding-left:0px;
+                        font-weight:300;
+                    }
+                   .icon-phone:before, .icon-email:before{
+                    display:none;
+                   }
+                }
+            }
+        }
+    }
+
+    .thumbnail-buttons{
+        .thumb{
+            width:100%;
+        }
+    }
+
+    footer{
+        .inner{
+            width:90%;
+        }
+    }
+}
+
+@media only screen and (max-width:400px){
+    .expert-advice{
+        .panel{
+            .advice{
+                width:78%;
+            }
+        }
+    }
+    .partner-logos{
+        .inner{
+            width:90%;
+        }
+    }
+}

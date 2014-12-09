@@ -1,0 +1,32 @@
+@import "bootstrap";
+
+body{
+    @extend.helvetica;
+    font-size:15px;
+    line-height:20px;
+    font-weight:200;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+a{
+    &:hover{
+        color:$bright-orange;
+    }
+}
+
+.button{
+    background:$bright-orange;
+    color:white;
+    padding:12px 25px;
+    font-size:14px;
+    text-decoration:none;
+    @extend.helvetica;
+    text-transform:uppercase;
+    border-bottom-right-radius: 1em;
+    cursor:pointer;
+    &:hover{
+        background:$body;
+        color:white;
+    }
+}

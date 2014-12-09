@@ -1,0 +1,1114 @@
+2014-12-05 14:35:45    create css/style.css 
+2014-12-05 15:05:45 identical css/style.css 
+2014-12-05 15:05:54 identical css/style.css 
+2014-12-05 15:06:01 identical css/style.css 
+2014-12-05 15:06:38 overwrite css/style.css 
+2014-12-05 15:07:04 identical css/style.css 
+2014-12-05 15:07:13 overwrite css/style.css 
+2014-12-05 15:07:52     error scss/style.scss (Line 2: File to import not found or unreadable: normalise.
+Load paths:
+  /Users/nat/Workspace/swell-homepage/scss
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2014-12-05 15:07:52 overwrite css/style.css 
+2014-12-05 15:08:41     error scss/style.scss (Line 2: File to import not found or unreadable: normalise.
+Load paths:
+  /Users/nat/Workspace/swell-homepage/scss
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2014-12-05 15:08:41 identical css/style.css 
+2014-12-05 15:08:48    remove .sass-cache/ 
+2014-12-05 15:08:48    remove css/style.css 
+2014-12-05 15:08:51     error scss/style.scss (Line 2: File to import not found or unreadable: normalise.
+Load paths:
+  /Users/nat/Workspace/swell-homepage/scss
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2014-12-05 15:08:51    create css/style.css 
+2014-12-05 15:08:51     error scss/style.scss (Line 2: File to import not found or unreadable: normalise.
+Load paths:
+  /Users/nat/Workspace/swell-homepage/scss
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2014-12-05 15:08:51 overwrite css/style.css 
+2014-12-05 15:09:50     error scss/style.scss (Line 2: File to import not found or unreadable: normalise.
+Load paths:
+  /Users/nat/Workspace/swell-homepage/scss
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2014-12-05 15:09:50 overwrite css/style.css 
+2014-12-05 15:11:21     error scss/style.scss (Line 2: File to import not found or unreadable: normalise.
+Load paths:
+  /Users/nat/Workspace/swell-homepage/scss
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2014-12-05 15:11:21 overwrite css/style.css 
+2014-12-05 15:11:27     error scss/style.scss (Line 2: File to import not found or unreadable: normalise.
+Load paths:
+  /Users/nat/Workspace/swell-homepage/scss
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2014-12-05 15:11:27 overwrite css/style.css 
+2014-12-05 15:11:37     error scss/style.scss (Line 2: File to import not found or unreadable: normalise.
+Load paths:
+  /Users/nat/Workspace/swell-homepage/scss
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2014-12-05 15:11:37 identical css/style.css 
+2014-12-05 15:11:46     error scss/style.scss (Line 204 of scss/_normalize.scss: Undefined mixin 'output-rhythm'.)
+2014-12-05 15:11:46 overwrite css/style.css 
+2014-12-05 15:12:02     error scss/style.scss (Line 204 of scss/_normalize.scss: Undefined mixin 'output-rhythm'.)
+2014-12-05 15:12:02 identical css/style.css 
+2014-12-05 15:12:54     error scss/style.scss (Line 57 of scss/_normalize.scss: Invalid CSS after "...ish-baseline();": expected selector or at-rule, was "}")
+2014-12-05 15:12:54 overwrite css/style.css 
+2014-12-05 15:13:57     error scss/style.scss (Line 57 of scss/_normalize.scss: Invalid CSS after "...ish-baseline();": expected selector or at-rule, was "}")
+2014-12-05 15:13:57 identical css/style.css 
+2014-12-05 15:14:26     error scss/style.scss (Line 204 of scss/_normalize.scss: Undefined mixin 'output-rhythm'.)
+2014-12-05 15:14:26 overwrite css/style.css 
+2014-12-05 15:14:31     error scss/style.scss (Line 204 of scss/_normalize.scss: Undefined mixin 'output-rhythm'.)
+2014-12-05 15:14:31 identical css/style.css 
+2014-12-05 15:14:47     error scss/style.scss (Line 204 of scss/_normalize.scss: Undefined mixin 'output-rhythm'.)
+2014-12-05 15:14:47 identical css/style.css 
+2014-12-05 15:15:43     error scss/style.scss (Line 204 of scss/_normalize.scss: Undefined mixin 'output-rhythm'.)
+2014-12-05 15:15:43 identical css/style.css 
+2014-12-05 15:16:02     error scss/style.scss (Line 285 of scss/_normalize.scss: Undefined mixin 'output-rhythm'.)
+2014-12-05 15:16:02 overwrite css/style.css 
+2014-12-05 15:16:12     error scss/style.scss (Line 285 of scss/_normalize.scss: Undefined mixin 'output-rhythm'.)
+2014-12-05 15:16:12 identical css/style.css 
+2014-12-05 15:17:07     error scss/style.scss (Line 285 of scss/_normalize.scss: Undefined mixin 'output-rhythm'.)
+2014-12-05 15:17:07 identical css/style.css 
+2014-12-05 15:18:08 overwrite css/style.css 
+2014-12-05 15:18:43 overwrite css/style.css 
+2014-12-05 15:28:57 overwrite css/style.css 
+2014-12-05 15:29:16 overwrite css/style.css 
+2014-12-05 15:29:40 overwrite css/style.css 
+2014-12-05 15:30:33 overwrite css/style.css 
+2014-12-05 15:30:55 overwrite css/style.css 
+2014-12-05 15:31:50 overwrite css/style.css 
+2014-12-05 15:32:01 overwrite css/style.css 
+2014-12-05 15:32:17 overwrite css/style.css 
+2014-12-05 15:32:31 overwrite css/style.css 
+2014-12-05 15:33:33 overwrite css/style.css 
+2014-12-05 15:33:52 overwrite css/style.css 
+2014-12-05 15:34:04 overwrite css/style.css 
+2014-12-05 15:35:57 overwrite css/style.css 
+2014-12-05 15:36:35 overwrite css/style.css 
+2014-12-05 15:37:39 overwrite css/style.css 
+2014-12-05 15:40:29 overwrite css/style.css 
+2014-12-05 15:42:14 overwrite css/style.css 
+2014-12-05 15:43:03 overwrite css/style.css 
+2014-12-05 15:43:17 overwrite css/style.css 
+2014-12-05 15:43:26 overwrite css/style.css 
+2014-12-05 15:43:37 overwrite css/style.css 
+2014-12-05 15:44:25 overwrite css/style.css 
+2014-12-05 15:45:12 overwrite css/style.css 
+2014-12-05 15:45:40 overwrite css/style.css 
+2014-12-05 15:46:13 identical css/style.css 
+2014-12-05 15:48:34 overwrite css/style.css 
+2014-12-05 15:48:37 overwrite css/style.css 
+2014-12-05 15:50:57 overwrite css/style.css 
+2014-12-05 15:51:18 identical css/style.css 
+2014-12-05 15:51:28 identical css/style.css 
+2014-12-05 15:51:35 overwrite css/style.css 
+2014-12-05 15:51:48 overwrite css/style.css 
+2014-12-05 15:51:57 overwrite css/style.css 
+2014-12-05 15:52:32 overwrite css/style.css 
+2014-12-05 15:52:33 overwrite css/style.css 
+2014-12-05 15:52:40 overwrite css/style.css 
+2014-12-05 15:52:43 overwrite css/style.css 
+2014-12-05 15:52:47 overwrite css/style.css 
+2014-12-05 15:53:31 overwrite css/style.css 
+2014-12-05 15:53:44 overwrite css/style.css 
+2014-12-05 15:54:28 overwrite css/style.css 
+2014-12-05 15:57:58 overwrite css/style.css 
+2014-12-05 16:00:40 overwrite css/style.css 
+2014-12-05 16:04:56 overwrite css/style.css 
+2014-12-05 16:08:21 overwrite css/style.css 
+2014-12-05 16:08:49 overwrite css/style.css 
+2014-12-05 16:10:05 identical css/style.css 
+2014-12-05 16:10:09 identical css/style.css 
+2014-12-05 16:10:20 overwrite css/style.css 
+2014-12-05 16:11:00 overwrite css/style.css 
+2014-12-05 16:20:23 overwrite css/style.css 
+2014-12-05 16:20:29 overwrite css/style.css 
+2014-12-05 16:20:56 overwrite css/style.css 
+2014-12-05 16:21:10 identical css/style.css 
+2014-12-05 16:21:27 identical css/style.css 
+2014-12-05 16:21:31 identical css/style.css 
+2014-12-05 16:21:46 overwrite css/style.css 
+2014-12-05 16:22:01 identical css/style.css 
+2014-12-05 16:22:19 overwrite css/style.css 
+2014-12-05 16:22:34 overwrite css/style.css 
+2014-12-05 16:22:43 identical css/style.css 
+2014-12-05 16:23:36 overwrite css/style.css 
+2014-12-05 16:23:52 identical css/style.css 
+2014-12-05 16:24:29 overwrite css/style.css 
+2014-12-05 16:25:02 overwrite css/style.css 
+2014-12-05 16:25:50 overwrite css/style.css 
+2014-12-05 16:26:49 overwrite css/style.css 
+2014-12-05 16:27:48 overwrite css/style.css 
+2014-12-05 16:30:58 overwrite css/style.css 
+2014-12-05 16:31:06 overwrite css/style.css 
+2014-12-05 16:31:19 overwrite css/style.css 
+2014-12-05 16:32:28 overwrite css/style.css 
+2014-12-05 16:32:41 overwrite css/style.css 
+2014-12-05 16:33:28 overwrite css/style.css 
+2014-12-05 16:34:34 overwrite css/style.css 
+2014-12-05 16:35:49 overwrite css/style.css 
+2014-12-05 16:36:28 overwrite css/style.css 
+2014-12-05 16:36:51 identical css/style.css 
+2014-12-05 16:37:19 identical css/style.css 
+2014-12-05 16:37:30 overwrite css/style.css 
+2014-12-05 16:38:03 overwrite css/style.css 
+2014-12-05 16:38:07 identical css/style.css 
+2014-12-05 16:38:16 identical css/style.css 
+2014-12-05 16:38:22 overwrite css/style.css 
+2014-12-05 16:38:34 overwrite css/style.css 
+2014-12-05 16:38:47 overwrite css/style.css 
+2014-12-05 16:38:56 overwrite css/style.css 
+2014-12-05 16:39:26 overwrite css/style.css 
+2014-12-05 16:41:24 overwrite css/style.css 
+2014-12-05 16:45:11 overwrite css/style.css 
+2014-12-05 16:45:48 overwrite css/style.css 
+2014-12-05 16:45:58 overwrite css/style.css 
+2014-12-05 16:46:52 overwrite css/style.css 
+2014-12-05 16:47:43 overwrite css/style.css 
+2014-12-05 16:49:05 overwrite css/style.css 
+2014-12-05 16:49:34 overwrite css/style.css 
+2014-12-05 16:49:42 identical css/style.css 
+2014-12-05 16:50:02 overwrite css/style.css 
+2014-12-05 16:51:29 overwrite css/style.css 
+2014-12-05 16:52:29 overwrite css/style.css 
+2014-12-05 16:52:39 overwrite css/style.css 
+2014-12-05 16:52:57 overwrite css/style.css 
+2014-12-05 16:53:09 overwrite css/style.css 
+2014-12-05 16:55:14 overwrite css/style.css 
+2014-12-05 16:55:27 overwrite css/style.css 
+2014-12-05 16:58:22 overwrite css/style.css 
+2014-12-05 16:58:48 overwrite css/style.css 
+2014-12-05 17:01:53 overwrite css/style.css 
+2014-12-05 17:03:16 overwrite css/style.css 
+2014-12-05 17:03:56 overwrite css/style.css 
+2014-12-05 17:04:10 overwrite css/style.css 
+2014-12-05 17:04:37 overwrite css/style.css 
+2014-12-05 17:04:43 identical css/style.css 
+2014-12-05 17:05:03 identical css/style.css 
+2014-12-05 17:06:09 overwrite css/style.css 
+2014-12-05 17:06:18 overwrite css/style.css 
+2014-12-05 17:06:25 overwrite css/style.css 
+2014-12-05 17:11:17 overwrite css/style.css 
+2014-12-05 17:12:03 overwrite css/style.css 
+2014-12-05 17:12:29 overwrite css/style.css 
+2014-12-05 17:13:57 overwrite css/style.css 
+2014-12-05 17:14:57 overwrite css/style.css 
+2014-12-05 17:16:54 overwrite css/style.css 
+2014-12-05 17:20:11 overwrite css/style.css 
+2014-12-05 17:21:05 overwrite css/style.css 
+2014-12-05 17:22:01 overwrite css/style.css 
+2014-12-05 17:22:41 overwrite css/style.css 
+2014-12-05 17:22:51 overwrite css/style.css 
+2014-12-05 17:23:05 overwrite css/style.css 
+2014-12-05 17:23:23 overwrite css/style.css 
+2014-12-05 17:23:31 overwrite css/style.css 
+2014-12-05 17:23:42 overwrite css/style.css 
+2014-12-05 17:23:53 overwrite css/style.css 
+2014-12-05 17:23:55 overwrite css/style.css 
+2014-12-05 17:27:02 overwrite css/style.css 
+2014-12-05 17:27:58 overwrite css/style.css 
+2014-12-05 17:28:26 identical css/style.css 
+2014-12-05 17:28:37 overwrite css/style.css 
+2014-12-05 17:28:46 overwrite css/style.css 
+2014-12-05 17:29:24 overwrite css/style.css 
+2014-12-05 17:31:44 overwrite css/style.css 
+2014-12-05 17:32:26 identical css/style.css 
+2014-12-05 17:32:54 identical css/style.css 
+2014-12-05 17:33:22 overwrite css/style.css 
+2014-12-05 17:33:29 overwrite css/style.css 
+2014-12-05 17:33:56 overwrite css/style.css 
+2014-12-05 17:34:02 identical css/style.css 
+2014-12-05 17:34:23 overwrite css/style.css 
+2014-12-05 17:34:50 overwrite css/style.css 
+2014-12-05 17:35:17     error scss/style.scss (Line 3 of scss/_base.scss: Undefined variable: "$bright-orange".)
+2014-12-05 17:35:17 overwrite css/style.css 
+2014-12-05 17:35:34 overwrite css/style.css 
+2014-12-05 17:35:57 overwrite css/style.css 
+2014-12-05 17:36:05 identical css/style.css 
+2014-12-05 17:36:06 identical css/style.css 
+2014-12-05 17:37:03 identical css/style.css 
+2014-12-05 17:37:11 overwrite css/style.css 
+2014-12-05 17:37:18 overwrite css/style.css 
+2014-12-08 10:29:29 overwrite css/style.css 
+2014-12-08 10:30:01 overwrite css/style.css 
+2014-12-08 10:30:52 overwrite css/style.css 
+2014-12-08 10:31:23 overwrite css/style.css 
+2014-12-08 10:32:18 identical css/style.css 
+2014-12-08 10:32:26 identical css/style.css 
+2014-12-08 10:33:53 overwrite css/style.css 
+2014-12-08 10:33:55 overwrite css/style.css 
+2014-12-08 10:34:17 overwrite css/style.css 
+2014-12-08 10:35:08 overwrite css/style.css 
+2014-12-08 11:13:31 overwrite css/style.css 
+2014-12-08 11:18:07 overwrite css/style.css 
+2014-12-08 11:18:15 overwrite css/style.css 
+2014-12-08 11:31:46 overwrite css/style.css 
+2014-12-08 11:31:56 overwrite css/style.css 
+2014-12-08 11:33:38 overwrite css/style.css 
+2014-12-08 11:33:50 overwrite css/style.css 
+2014-12-08 11:35:04 overwrite css/style.css 
+2014-12-08 11:36:07 overwrite css/style.css 
+2014-12-08 11:36:32 overwrite css/style.css 
+2014-12-08 11:36:57 overwrite css/style.css 
+2014-12-08 11:39:58 overwrite css/style.css 
+2014-12-08 11:40:59 overwrite css/style.css 
+2014-12-08 11:42:27 overwrite css/style.css 
+2014-12-08 11:42:40 overwrite css/style.css 
+2014-12-08 11:51:38 overwrite css/style.css 
+2014-12-08 11:51:51 overwrite css/style.css 
+2014-12-08 11:52:14 overwrite css/style.css 
+2014-12-08 11:52:19 overwrite css/style.css 
+2014-12-08 11:52:24 overwrite css/style.css 
+2014-12-08 11:52:28 overwrite css/style.css 
+2014-12-08 11:52:34 overwrite css/style.css 
+2014-12-08 11:53:51 overwrite css/style.css 
+2014-12-08 11:54:14 overwrite css/style.css 
+2014-12-08 11:54:40 overwrite css/style.css 
+2014-12-08 11:54:58 overwrite css/style.css 
+2014-12-08 11:55:18 overwrite css/style.css 
+2014-12-08 11:55:23 overwrite css/style.css 
+2014-12-08 11:55:40 overwrite css/style.css 
+2014-12-08 11:56:07 overwrite css/style.css 
+2014-12-08 11:57:15 overwrite css/style.css 
+2014-12-08 11:57:19 overwrite css/style.css 
+2014-12-08 11:57:50 overwrite css/style.css 
+2014-12-08 11:58:12 overwrite css/style.css 
+2014-12-08 11:58:35 overwrite css/style.css 
+2014-12-08 11:58:51 identical css/style.css 
+2014-12-08 11:59:24 overwrite css/style.css 
+2014-12-08 11:59:34 identical css/style.css 
+2014-12-08 11:59:42 overwrite css/style.css 
+2014-12-08 12:00:04 overwrite css/style.css 
+2014-12-08 12:00:48 overwrite css/style.css 
+2014-12-08 12:00:55 overwrite css/style.css 
+2014-12-08 12:06:20     error scss/style.scss (Line 136: Invalid CSS after ".icon-menu-burger": expected "{", was ""{"
+
+""{
+    &:before {
+    content: "\e605" may only be used at the beginning of a compound selector.)
+2014-12-08 12:06:20 overwrite css/style.css 
+2014-12-08 12:06:46 overwrite css/style.css 
+2014-12-08 12:07:08 identical css/style.css 
+2014-12-08 12:08:40 identical css/style.css 
+2014-12-08 12:09:36 identical css/style.css 
+2014-12-08 12:10:06 overwrite css/style.css 
+2014-12-08 12:10:26 overwrite css/style.css 
+2014-12-08 12:11:31 overwrite css/style.css 
+2014-12-08 12:12:09 overwrite css/style.css 
+2014-12-08 12:12:16 overwrite css/style.css 
+2014-12-08 12:12:28 overwrite css/style.css 
+2014-12-08 12:55:01 identical css/style.css 
+2014-12-08 12:55:42 overwrite css/style.css 
+2014-12-08 12:55:58 overwrite css/style.css 
+2014-12-08 12:56:30 overwrite css/style.css 
+2014-12-08 13:18:41 overwrite css/style.css 
+2014-12-08 13:19:39 overwrite css/style.css 
+2014-12-08 13:20:38 overwrite css/style.css 
+2014-12-08 13:22:39 overwrite css/style.css 
+2014-12-08 13:24:18 overwrite css/style.css 
+2014-12-08 13:24:30 overwrite css/style.css 
+2014-12-08 13:25:30 overwrite css/style.css 
+2014-12-08 13:26:02 overwrite css/style.css 
+2014-12-08 13:26:10 overwrite css/style.css 
+2014-12-08 13:26:22 overwrite css/style.css 
+2014-12-08 13:27:44 overwrite css/style.css 
+2014-12-08 13:28:39 overwrite css/style.css 
+2014-12-08 13:29:11 overwrite css/style.css 
+2014-12-08 13:29:22 overwrite css/style.css 
+2014-12-08 13:29:29 overwrite css/style.css 
+2014-12-08 13:31:27 overwrite css/style.css 
+2014-12-08 13:31:36 overwrite css/style.css 
+2014-12-08 13:31:38 overwrite css/style.css 
+2014-12-08 13:32:09 overwrite css/style.css 
+2014-12-08 13:33:07 overwrite css/style.css 
+2014-12-08 13:33:32 overwrite css/style.css 
+2014-12-08 13:33:37 overwrite css/style.css 
+2014-12-08 13:34:56 overwrite css/style.css 
+2014-12-08 13:35:09 identical css/style.css 
+2014-12-08 13:35:16 identical css/style.css 
+2014-12-08 13:35:30 overwrite css/style.css 
+2014-12-08 13:35:39 overwrite css/style.css 
+2014-12-08 13:38:42 overwrite css/style.css 
+2014-12-08 13:38:53 overwrite css/style.css 
+2014-12-08 13:39:10 overwrite css/style.css 
+2014-12-08 13:39:59 overwrite css/style.css 
+2014-12-08 13:40:05 overwrite css/style.css 
+2014-12-08 13:40:15 overwrite css/style.css 
+2014-12-08 13:40:21 overwrite css/style.css 
+2014-12-08 13:40:52 identical css/style.css 
+2014-12-08 13:41:13 overwrite css/style.css 
+2014-12-08 13:41:20 overwrite css/style.css 
+2014-12-08 13:41:34 overwrite css/style.css 
+2014-12-08 13:41:36 overwrite css/style.css 
+2014-12-08 13:41:42 overwrite css/style.css 
+2014-12-08 13:42:07 overwrite css/style.css 
+2014-12-08 13:42:17 overwrite css/style.css 
+2014-12-08 13:42:56 overwrite css/style.css 
+2014-12-08 13:43:15 overwrite css/style.css 
+2014-12-08 13:44:38 overwrite css/style.css 
+2014-12-08 13:45:07 identical css/style.css 
+2014-12-08 13:45:26 overwrite css/style.css 
+2014-12-08 13:45:50 overwrite css/style.css 
+2014-12-08 13:46:00 overwrite css/style.css 
+2014-12-08 13:46:16 overwrite css/style.css 
+2014-12-08 13:46:22 overwrite css/style.css 
+2014-12-08 13:46:26 overwrite css/style.css 
+2014-12-08 13:46:56 overwrite css/style.css 
+2014-12-08 13:47:59 overwrite css/style.css 
+2014-12-08 13:48:50 overwrite css/style.css 
+2014-12-08 13:48:58 overwrite css/style.css 
+2014-12-08 13:49:02 overwrite css/style.css 
+2014-12-08 13:49:08 overwrite css/style.css 
+2014-12-08 13:49:11 overwrite css/style.css 
+2014-12-08 13:49:17 overwrite css/style.css 
+2014-12-08 13:53:22 overwrite css/style.css 
+2014-12-08 13:53:42 overwrite css/style.css 
+2014-12-08 13:53:57 overwrite css/style.css 
+2014-12-08 13:54:13     error scss/style.scss (Line 261: Undefined variable: "$black".)
+2014-12-08 13:54:13 overwrite css/style.css 
+2014-12-08 13:54:16 overwrite css/style.css 
+2014-12-08 13:54:29 overwrite css/style.css 
+2014-12-08 13:54:33 overwrite css/style.css 
+2014-12-08 13:55:42 overwrite css/style.css 
+2014-12-08 14:13:34 overwrite css/style.css 
+2014-12-08 14:21:52 overwrite css/style.css 
+2014-12-08 14:21:56 overwrite css/style.css 
+2014-12-08 14:25:05 overwrite css/style.css 
+2014-12-08 14:25:07 identical css/style.css 
+2014-12-08 14:25:22 overwrite css/style.css 
+2014-12-08 14:27:00 overwrite css/style.css 
+2014-12-08 14:27:34 overwrite css/style.css 
+2014-12-08 14:28:10 overwrite css/style.css 
+2014-12-08 14:28:24 overwrite css/style.css 
+2014-12-08 14:29:45 overwrite css/style.css 
+2014-12-08 14:29:55 overwrite css/style.css 
+2014-12-08 14:30:44 overwrite css/style.css 
+2014-12-08 14:31:16 overwrite css/style.css 
+2014-12-08 14:33:28 overwrite css/style.css 
+2014-12-08 14:33:36 overwrite css/style.css 
+2014-12-08 14:34:02 overwrite css/style.css 
+2014-12-08 14:35:42 overwrite css/style.css 
+2014-12-08 14:35:50 overwrite css/style.css 
+2014-12-08 14:37:47 overwrite css/style.css 
+2014-12-08 14:38:00 overwrite css/style.css 
+2014-12-08 14:38:06 overwrite css/style.css 
+2014-12-08 14:39:32 overwrite css/style.css 
+2014-12-08 14:39:44 overwrite css/style.css 
+2014-12-08 14:40:01 overwrite css/style.css 
+2014-12-08 15:01:27 overwrite css/style.css 
+2014-12-08 15:01:32 overwrite css/style.css 
+2014-12-08 15:01:55 overwrite css/style.css 
+2014-12-08 15:02:25 overwrite css/style.css 
+2014-12-08 15:02:56 identical css/style.css 
+2014-12-08 15:03:40 overwrite css/style.css 
+2014-12-08 15:03:52 overwrite css/style.css 
+2014-12-08 15:05:04 overwrite css/style.css 
+2014-12-08 15:05:54 overwrite css/style.css 
+2014-12-08 15:06:07 overwrite css/style.css 
+2014-12-08 15:06:25 overwrite css/style.css 
+2014-12-08 15:07:15 overwrite css/style.css 
+2014-12-08 15:10:45 overwrite css/style.css 
+2014-12-08 15:11:21 overwrite css/style.css 
+2014-12-08 15:11:43 overwrite css/style.css 
+2014-12-08 15:12:01     error scss/style.scss (Line 231: Invalid CSS after "        width": expected "{", was ";100%;")
+2014-12-08 15:12:01 overwrite css/style.css 
+2014-12-08 15:12:04 overwrite css/style.css 
+2014-12-08 15:12:25 overwrite css/style.css 
+2014-12-08 15:12:38 overwrite css/style.css 
+2014-12-08 15:12:48 overwrite css/style.css 
+2014-12-08 15:13:12 overwrite css/style.css 
+2014-12-08 15:13:31 overwrite css/style.css 
+2014-12-08 15:14:11 overwrite css/style.css 
+2014-12-08 15:16:33 overwrite css/style.css 
+2014-12-08 15:17:02 overwrite css/style.css 
+2014-12-08 15:17:13 overwrite css/style.css 
+2014-12-08 15:17:33 overwrite css/style.css 
+2014-12-08 15:17:58 overwrite css/style.css 
+2014-12-08 15:18:06 overwrite css/style.css 
+2014-12-08 15:19:03 overwrite css/style.css 
+2014-12-08 15:19:42 identical css/style.css 
+2014-12-08 15:19:52 overwrite css/style.css 
+2014-12-08 15:21:04 overwrite css/style.css 
+2014-12-08 15:21:25 overwrite css/style.css 
+2014-12-08 15:21:37 overwrite css/style.css 
+2014-12-08 15:21:43 overwrite css/style.css 
+2014-12-08 15:21:48 overwrite css/style.css 
+2014-12-08 15:32:33 identical css/style.css 
+2014-12-08 15:36:28 overwrite css/style.css 
+2014-12-08 15:36:47 identical css/style.css 
+2014-12-08 15:37:14 overwrite css/style.css 
+2014-12-08 15:37:39 overwrite css/style.css 
+2014-12-08 15:37:41 overwrite css/style.css 
+2014-12-08 15:38:06 overwrite css/style.css 
+2014-12-08 15:38:46     error scss/style.scss (Line 297: Undefined variable: "$border".)
+2014-12-08 15:38:46 overwrite css/style.css 
+2014-12-08 15:38:53 overwrite css/style.css 
+2014-12-08 15:39:31 overwrite css/style.css 
+2014-12-08 15:39:34 overwrite css/style.css 
+2014-12-08 15:39:40 overwrite css/style.css 
+2014-12-08 15:39:53 overwrite css/style.css 
+2014-12-08 15:40:04 overwrite css/style.css 
+2014-12-08 15:40:42 overwrite css/style.css 
+2014-12-08 15:41:16 overwrite css/style.css 
+2014-12-08 15:41:27 overwrite css/style.css 
+2014-12-08 15:42:21 overwrite css/style.css 
+2014-12-08 15:42:40 overwrite css/style.css 
+2014-12-08 15:43:15 overwrite css/style.css 
+2014-12-08 15:43:39 overwrite css/style.css 
+2014-12-08 15:43:59 overwrite css/style.css 
+2014-12-08 16:13:13 identical css/style.css 
+2014-12-08 16:13:50 overwrite css/style.css 
+2014-12-08 16:14:07 overwrite css/style.css 
+2014-12-08 16:15:07 overwrite css/style.css 
+2014-12-08 16:15:20 overwrite css/style.css 
+2014-12-08 16:16:23 overwrite css/style.css 
+2014-12-08 16:17:31 overwrite css/style.css 
+2014-12-08 16:18:19 overwrite css/style.css 
+2014-12-08 16:18:31 overwrite css/style.css 
+2014-12-08 16:20:36 overwrite css/style.css 
+2014-12-08 16:20:43 overwrite css/style.css 
+2014-12-08 16:21:04 overwrite css/style.css 
+2014-12-08 16:21:27 overwrite css/style.css 
+2014-12-08 16:22:41 overwrite css/style.css 
+2014-12-08 16:22:54 overwrite css/style.css 
+2014-12-08 16:23:11 overwrite css/style.css 
+2014-12-08 16:23:29 overwrite css/style.css 
+2014-12-08 16:23:41 overwrite css/style.css 
+2014-12-08 16:23:46 overwrite css/style.css 
+2014-12-08 16:24:15 overwrite css/style.css 
+2014-12-08 16:24:24 overwrite css/style.css 
+2014-12-08 16:24:28 overwrite css/style.css 
+2014-12-08 16:24:41 overwrite css/style.css 
+2014-12-08 16:25:35 overwrite css/style.css 
+2014-12-08 16:25:44 overwrite css/style.css 
+2014-12-08 16:25:49 overwrite css/style.css 
+2014-12-08 16:25:59 overwrite css/style.css 
+2014-12-08 16:26:34 overwrite css/style.css 
+2014-12-08 16:26:41 overwrite css/style.css 
+2014-12-08 16:27:11 overwrite css/style.css 
+2014-12-08 16:27:14 overwrite css/style.css 
+2014-12-08 16:27:23 overwrite css/style.css 
+2014-12-08 16:28:21 overwrite css/style.css 
+2014-12-08 16:31:31 overwrite css/style.css 
+2014-12-08 16:31:53 overwrite css/style.css 
+2014-12-08 16:31:56 identical css/style.css 
+2014-12-08 16:32:08 overwrite css/style.css 
+2014-12-08 16:32:32 overwrite css/style.css 
+2014-12-08 16:33:30 overwrite css/style.css 
+2014-12-08 16:34:42 overwrite css/style.css 
+2014-12-08 16:35:45 overwrite css/style.css 
+2014-12-08 16:37:23 overwrite css/style.css 
+2014-12-08 16:38:43 overwrite css/style.css 
+2014-12-08 16:39:03 overwrite css/style.css 
+2014-12-08 16:39:49 overwrite css/style.css 
+2014-12-08 16:40:44 overwrite css/style.css 
+2014-12-08 16:41:04 overwrite css/style.css 
+2014-12-08 16:42:29 overwrite css/style.css 
+2014-12-08 16:42:43 overwrite css/style.css 
+2014-12-08 16:43:46 overwrite css/style.css 
+2014-12-08 16:44:19 overwrite css/style.css 
+2014-12-08 16:44:58 overwrite css/style.css 
+2014-12-08 16:47:12 overwrite css/style.css 
+2014-12-08 16:47:21 overwrite css/style.css 
+2014-12-08 16:47:33 overwrite css/style.css 
+2014-12-08 16:48:39 overwrite css/style.css 
+2014-12-08 16:49:41 overwrite css/style.css 
+2014-12-08 16:50:07 overwrite css/style.css 
+2014-12-08 16:51:02 overwrite css/style.css 
+2014-12-08 16:59:12 overwrite css/style.css 
+2014-12-08 17:00:23 overwrite css/style.css 
+2014-12-08 17:02:10 overwrite css/style.css 
+2014-12-08 17:03:04 overwrite css/style.css 
+2014-12-08 17:04:19 overwrite css/style.css 
+2014-12-08 17:04:53 overwrite css/style.css 
+2014-12-08 17:06:00 overwrite css/style.css 
+2014-12-08 17:08:19 overwrite css/style.css 
+2014-12-08 17:10:11 overwrite css/style.css 
+2014-12-08 17:10:40 overwrite css/style.css 
+2014-12-08 17:12:36 identical css/style.css 
+2014-12-08 17:13:03 identical css/style.css 
+2014-12-08 17:13:17 overwrite css/style.css 
+2014-12-08 17:13:22 overwrite css/style.css 
+2014-12-08 17:13:31 overwrite css/style.css 
+2014-12-08 17:13:38 identical css/style.css 
+2014-12-08 17:14:07 overwrite css/style.css 
+2014-12-08 17:14:25 overwrite css/style.css 
+2014-12-08 17:14:44 overwrite css/style.css 
+2014-12-08 17:14:53 overwrite css/style.css 
+2014-12-08 17:15:06 overwrite css/style.css 
+2014-12-08 17:15:11 overwrite css/style.css 
+2014-12-08 17:15:18 overwrite css/style.css 
+2014-12-08 17:19:29 identical css/style.css 
+2014-12-08 17:19:43 identical css/style.css 
+2014-12-08 17:20:14 overwrite css/style.css 
+2014-12-08 17:20:18 overwrite css/style.css 
+2014-12-08 17:20:22 overwrite css/style.css 
+2014-12-08 17:20:41 overwrite css/style.css 
+2014-12-08 17:21:23 overwrite css/style.css 
+2014-12-08 17:43:34 overwrite css/style.css 
+2014-12-08 17:43:42 overwrite css/style.css 
+2014-12-08 20:49:16 overwrite css/style.css 
+2014-12-08 20:49:32 overwrite css/style.css 
+2014-12-08 20:50:11 overwrite css/style.css 
+2014-12-08 22:54:52 overwrite css/style.css 
+2014-12-08 22:55:17 overwrite css/style.css 
+2014-12-08 22:55:24 overwrite css/style.css 
+2014-12-08 22:55:36 overwrite css/style.css 
+2014-12-08 22:55:40 identical css/style.css 
+2014-12-08 22:57:11 overwrite css/style.css 
+2014-12-08 22:57:14 overwrite css/style.css 
+2014-12-08 22:58:04 overwrite css/style.css 
+2014-12-08 22:58:54 overwrite css/style.css 
+2014-12-08 22:59:01 overwrite css/style.css 
+2014-12-08 22:59:39 overwrite css/style.css 
+2014-12-08 22:59:47 overwrite css/style.css 
+2014-12-08 23:01:04 overwrite css/style.css 
+2014-12-08 23:01:29 overwrite css/style.css 
+2014-12-08 23:01:45 overwrite css/style.css 
+2014-12-08 23:02:12 identical css/style.css 
+2014-12-08 23:02:15 overwrite css/style.css 
+2014-12-08 23:03:32 overwrite css/style.css 
+2014-12-08 23:04:51 overwrite css/style.css 
+2014-12-08 23:04:58 overwrite css/style.css 
+2014-12-08 23:05:04 overwrite css/style.css 
+2014-12-08 23:05:15 overwrite css/style.css 
+2014-12-08 23:05:41 overwrite css/style.css 
+2014-12-08 23:06:34 identical css/style.css 
+2014-12-08 23:06:58 overwrite css/style.css 
+2014-12-08 23:07:04 overwrite css/style.css 
+2014-12-08 23:07:42 overwrite css/style.css 
+2014-12-08 23:07:49 overwrite css/style.css 
+2014-12-08 23:08:08 overwrite css/style.css 
+2014-12-08 23:08:37 overwrite css/style.css 
+2014-12-08 23:08:43 overwrite css/style.css 
+2014-12-08 23:12:35 overwrite css/style.css 
+2014-12-08 23:15:07 overwrite css/style.css 
+2014-12-08 23:15:21 overwrite css/style.css 
+2014-12-08 23:15:37 overwrite css/style.css 
+2014-12-08 23:15:46 overwrite css/style.css 
+2014-12-08 23:15:53 overwrite css/style.css 
+2014-12-08 23:16:02 overwrite css/style.css 
+2014-12-08 23:16:37 overwrite css/style.css 
+2014-12-08 23:16:39 overwrite css/style.css 
+2014-12-08 23:18:52 overwrite css/style.css 
+2014-12-08 23:18:56 overwrite css/style.css 
+2014-12-08 23:19:05 overwrite css/style.css 
+2014-12-08 23:21:19 overwrite css/style.css 
+2014-12-08 23:21:32 overwrite css/style.css 
+2014-12-08 23:21:50 overwrite css/style.css 
+2014-12-08 23:22:16 identical css/style.css 
+2014-12-08 23:22:25 overwrite css/style.css 
+2014-12-08 23:22:36 overwrite css/style.css 
+2014-12-08 23:22:59 overwrite css/style.css 
+2014-12-08 23:23:31 overwrite css/style.css 
+2014-12-08 23:23:43 overwrite css/style.css 
+2014-12-08 23:24:06 overwrite css/style.css 
+2014-12-08 23:24:20 overwrite css/style.css 
+2014-12-08 23:25:59 overwrite css/style.css 
+2014-12-08 23:26:22 overwrite css/style.css 
+2014-12-08 23:26:43 overwrite css/style.css 
+2014-12-08 23:27:07 overwrite css/style.css 
+2014-12-08 23:27:20 overwrite css/style.css 
+2014-12-08 23:27:53 overwrite css/style.css 
+2014-12-08 23:28:08 overwrite css/style.css 
+2014-12-08 23:28:13 overwrite css/style.css 
+2014-12-08 23:28:27 overwrite css/style.css 
+2014-12-08 23:28:37 overwrite css/style.css 
+2014-12-08 23:29:15 overwrite css/style.css 
+2014-12-08 23:29:39 overwrite css/style.css 
+2014-12-08 23:29:46 overwrite css/style.css 
+2014-12-08 23:29:52 identical css/style.css 
+2014-12-08 23:30:30 overwrite css/style.css 
+2014-12-08 23:31:16 overwrite css/style.css 
+2014-12-08 23:31:18 overwrite css/style.css 
+2014-12-08 23:31:25 overwrite css/style.css 
+2014-12-08 23:32:00 overwrite css/style.css 
+2014-12-08 23:32:08 identical css/style.css 
+2014-12-08 23:33:03 overwrite css/style.css 
+2014-12-08 23:33:29 overwrite css/style.css 
+2014-12-08 23:34:58 overwrite css/style.css 
+2014-12-08 23:35:12 overwrite css/style.css 
+2014-12-08 23:35:57 overwrite css/style.css 
+2014-12-08 23:38:38 overwrite css/style.css 
+2014-12-08 23:39:46 overwrite css/style.css 
+2014-12-08 23:40:00 overwrite css/style.css 
+2014-12-08 23:40:40     error scss/style.scss (Line 377: Undefined variable: "$black".)
+2014-12-08 23:40:40 overwrite css/style.css 
+2014-12-08 23:40:49 overwrite css/style.css 
+2014-12-08 23:41:15 overwrite css/style.css 
+2014-12-08 23:41:21 overwrite css/style.css 
+2014-12-08 23:43:55 identical css/style.css 
+2014-12-08 23:44:00 overwrite css/style.css 
+2014-12-08 23:44:12 overwrite css/style.css 
+2014-12-08 23:44:20 overwrite css/style.css 
+2014-12-08 23:44:33 overwrite css/style.css 
+2014-12-08 23:47:30 overwrite css/style.css 
+2014-12-08 23:47:38 identical css/style.css 
+2014-12-08 23:47:51 overwrite css/style.css 
+2014-12-08 23:48:02 overwrite css/style.css 
+2014-12-08 23:48:25 overwrite css/style.css 
+2014-12-08 23:49:23 overwrite css/style.css 
+2014-12-08 23:49:33 identical css/style.css 
+2014-12-08 23:49:56 overwrite css/style.css 
+2014-12-08 23:50:23 overwrite css/style.css 
+2014-12-08 23:51:24 overwrite css/style.css 
+2014-12-08 23:51:33 identical css/style.css 
+2014-12-08 23:51:38 overwrite css/style.css 
+2014-12-08 23:53:05 overwrite css/style.css 
+2014-12-08 23:53:35 overwrite css/style.css 
+2014-12-08 23:53:51 overwrite css/style.css 
+2014-12-08 23:55:22 overwrite css/style.css 
+2014-12-08 23:55:28 overwrite css/style.css 
+2014-12-08 23:55:50 overwrite css/style.css 
+2014-12-08 23:55:53 overwrite css/style.css 
+2014-12-08 23:56:49 overwrite css/style.css 
+2014-12-08 23:57:05 overwrite css/style.css 
+2014-12-08 23:57:21 overwrite css/style.css 
+2014-12-08 23:57:48 overwrite css/style.css 
+2014-12-08 23:58:26 overwrite css/style.css 
+2014-12-08 23:59:02 overwrite css/style.css 
+2014-12-08 23:59:38 overwrite css/style.css 
+2014-12-08 23:59:43 overwrite css/style.css 
+2014-12-08 23:59:50 overwrite css/style.css 
+2014-12-09 00:11:01 overwrite css/style.css 
+2014-12-09 00:11:23 overwrite css/style.css 
+2014-12-09 00:11:27 overwrite css/style.css 
+2014-12-09 00:11:55 identical css/style.css 
+2014-12-09 00:12:59 overwrite css/style.css 
+2014-12-09 00:14:06 overwrite css/style.css 
+2014-12-09 00:14:45 overwrite css/style.css 
+2014-12-09 00:15:04 overwrite css/style.css 
+2014-12-09 00:15:10 overwrite css/style.css 
+2014-12-09 00:15:43 overwrite css/style.css 
+2014-12-09 00:25:35 identical css/style.css 
+2014-12-09 00:26:06 overwrite css/style.css 
+2014-12-09 00:26:35 identical css/style.css 
+2014-12-09 09:44:21 overwrite css/style.css 
+2014-12-09 09:44:42 overwrite css/style.css 
+2014-12-09 09:45:02 overwrite css/style.css 
+2014-12-09 09:48:57 overwrite css/style.css 
+2014-12-09 09:49:08 overwrite css/style.css 
+2014-12-09 09:49:27 overwrite css/style.css 
+2014-12-09 09:52:20 overwrite css/style.css 
+2014-12-09 09:53:06 overwrite css/style.css 
+2014-12-09 09:53:19 overwrite css/style.css 
+2014-12-09 09:53:24 overwrite css/style.css 
+2014-12-09 09:53:32 overwrite css/style.css 
+2014-12-09 09:54:03 overwrite css/style.css 
+2014-12-09 09:55:45 overwrite css/style.css 
+2014-12-09 09:55:55 overwrite css/style.css 
+2014-12-09 09:56:30 overwrite css/style.css 
+2014-12-09 09:56:41 overwrite css/style.css 
+2014-12-09 09:57:16 overwrite css/style.css 
+2014-12-09 09:57:22 overwrite css/style.css 
+2014-12-09 09:57:27 overwrite css/style.css 
+2014-12-09 09:58:00 overwrite css/style.css 
+2014-12-09 09:58:39 overwrite css/style.css 
+2014-12-09 10:24:04 overwrite css/style.css 
+2014-12-09 10:28:00 overwrite css/style.css 
+2014-12-09 10:28:03 overwrite css/style.css 
+2014-12-09 10:28:08 overwrite css/style.css 
+2014-12-09 10:29:28 overwrite css/style.css 
+2014-12-09 10:33:45 overwrite css/style.css 
+2014-12-09 10:33:54 identical css/style.css 
+2014-12-09 10:34:24 overwrite css/style.css 
+2014-12-09 10:35:05 overwrite css/style.css 
+2014-12-09 10:39:27 overwrite css/style.css 
+2014-12-09 10:39:29 overwrite css/style.css 
+2014-12-09 10:39:42 overwrite css/style.css 
+2014-12-09 10:40:00 identical css/style.css 
+2014-12-09 10:40:22 overwrite css/style.css 
+2014-12-09 10:40:38 overwrite css/style.css 
+2014-12-09 10:40:46 overwrite css/style.css 
+2014-12-09 10:41:03 overwrite css/style.css 
+2014-12-09 10:42:07 overwrite css/style.css 
+2014-12-09 10:42:27 overwrite css/style.css 
+2014-12-09 10:43:12 overwrite css/style.css 
+2014-12-09 10:43:37 overwrite css/style.css 
+2014-12-09 10:43:51 overwrite css/style.css 
+2014-12-09 10:44:03 overwrite css/style.css 
+2014-12-09 10:46:13 overwrite css/style.css 
+2014-12-09 10:46:39 overwrite css/style.css 
+2014-12-09 10:46:44 overwrite css/style.css 
+2014-12-09 10:47:10 overwrite css/style.css 
+2014-12-09 10:47:16 overwrite css/style.css 
+2014-12-09 10:47:21 overwrite css/style.css 
+2014-12-09 10:47:30 overwrite css/style.css 
+2014-12-09 10:47:55 overwrite css/style.css 
+2014-12-09 10:49:59 overwrite css/style.css 
+2014-12-09 10:50:21 overwrite css/style.css 
+2014-12-09 10:51:14 overwrite css/style.css 
+2014-12-09 10:51:56 overwrite css/style.css 
+2014-12-09 10:53:59 overwrite css/style.css 
+2014-12-09 10:54:28 overwrite css/style.css 
+2014-12-09 10:55:29 overwrite css/style.css 
+2014-12-09 10:56:15 identical css/style.css 
+2014-12-09 10:56:46 overwrite css/style.css 
+2014-12-09 10:56:56 overwrite css/style.css 
+2014-12-09 10:57:00 overwrite css/style.css 
+2014-12-09 10:57:21 overwrite css/style.css 
+2014-12-09 10:57:36 overwrite css/style.css 
+2014-12-09 10:58:57 overwrite css/style.css 
+2014-12-09 11:00:26 overwrite css/style.css 
+2014-12-09 11:01:07 overwrite css/style.css 
+2014-12-09 11:01:28 overwrite css/style.css 
+2014-12-09 11:02:33 overwrite css/style.css 
+2014-12-09 11:03:35 overwrite css/style.css 
+2014-12-09 11:03:54 overwrite css/style.css 
+2014-12-09 11:04:09 overwrite css/style.css 
+2014-12-09 11:04:15 overwrite css/style.css 
+2014-12-09 11:05:22 overwrite css/style.css 
+2014-12-09 11:06:14 overwrite css/style.css 
+2014-12-09 11:07:08 overwrite css/style.css 
+2014-12-09 11:07:15 overwrite css/style.css 
+2014-12-09 11:07:22 overwrite css/style.css 
+2014-12-09 11:07:59 overwrite css/style.css 
+2014-12-09 11:08:58 overwrite css/style.css 
+2014-12-09 11:09:24 overwrite css/style.css 
+2014-12-09 11:09:27 identical css/style.css 
+2014-12-09 11:09:34 identical css/style.css 
+2014-12-09 11:09:52 overwrite css/style.css 
+2014-12-09 11:11:10 overwrite css/style.css 
+2014-12-09 11:11:15 overwrite css/style.css 
+2014-12-09 11:12:47 overwrite css/style.css 
+2014-12-09 11:13:11 identical css/style.css 
+2014-12-09 11:19:14 overwrite css/style.css 
+2014-12-09 11:19:44 overwrite css/style.css 
+2014-12-09 11:20:13 overwrite css/style.css 
+2014-12-09 11:21:55 overwrite css/style.css 
+2014-12-09 11:22:00 overwrite css/style.css 
+2014-12-09 11:22:41 overwrite css/style.css 
+2014-12-09 11:23:54 overwrite css/style.css 
+2014-12-09 11:24:09 overwrite css/style.css 
+2014-12-09 11:24:22 overwrite css/style.css 
+2014-12-09 11:24:34 overwrite css/style.css 
+2014-12-09 11:26:50 overwrite css/style.css 
+2014-12-09 11:27:18 overwrite css/style.css 
+2014-12-09 11:27:34 overwrite css/style.css 
+2014-12-09 11:27:45 overwrite css/style.css 
+2014-12-09 11:28:27     error scss/style.scss (Line 583: Invalid CSS: a space is required between a property and its definition
+when it has other properties nested beneath it.
+)
+2014-12-09 11:28:27 overwrite css/style.css 
+2014-12-09 11:28:30 overwrite css/style.css 
+2014-12-09 11:32:01 overwrite css/style.css 
+2014-12-09 11:32:11 overwrite css/style.css 
+2014-12-09 11:32:32 overwrite css/style.css 
+2014-12-09 11:41:01 overwrite css/style.css 
+2014-12-09 11:41:33 overwrite css/style.css 
+2014-12-09 11:41:39 overwrite css/style.css 
+2014-12-09 11:41:59 overwrite css/style.css 
+2014-12-09 11:42:05 identical css/style.css 
+2014-12-09 11:42:12 overwrite css/style.css 
+2014-12-09 11:43:20 overwrite css/style.css 
+2014-12-09 11:48:27 overwrite css/style.css 
+2014-12-09 11:49:42 overwrite css/style.css 
+2014-12-09 11:50:00 overwrite css/style.css 
+2014-12-09 11:50:06 overwrite css/style.css 
+2014-12-09 11:52:04 overwrite css/style.css 
+2014-12-09 11:52:12 overwrite css/style.css 
+2014-12-09 11:52:29 overwrite css/style.css 
+2014-12-09 11:53:34 overwrite css/style.css 
+2014-12-09 11:53:43 overwrite css/style.css 
+2014-12-09 11:53:48 overwrite css/style.css 
+2014-12-09 11:54:07 overwrite css/style.css 
+2014-12-09 11:54:15 overwrite css/style.css 
+2014-12-09 12:22:33 overwrite css/style.css 
+2014-12-09 12:32:48 overwrite css/style.css 
+2014-12-09 12:33:41 overwrite css/style.css 
+2014-12-09 12:33:45 overwrite css/style.css 
+2014-12-09 12:34:32 overwrite css/style.css 
+2014-12-09 12:35:54 overwrite css/style.css 
+2014-12-09 12:36:38 overwrite css/style.css 
+2014-12-09 12:36:40 identical css/style.css 
+2014-12-09 12:38:31 overwrite css/style.css 
+2014-12-09 12:39:39 overwrite css/style.css 
+2014-12-09 12:40:53 overwrite css/style.css 
+2014-12-09 12:41:36 overwrite css/style.css 
+2014-12-09 12:42:06 overwrite css/style.css 
+2014-12-09 12:42:19 overwrite css/style.css 
+2014-12-09 12:42:32 overwrite css/style.css 
+2014-12-09 12:46:21 overwrite css/style.css 
+2014-12-09 12:47:26 overwrite css/style.css 
+2014-12-09 12:51:48 overwrite css/style.css 
+2014-12-09 13:07:11 overwrite css/style.css 
+2014-12-09 13:16:50 overwrite css/style.css 
+2014-12-09 13:17:02 overwrite css/style.css 
+2014-12-09 13:17:30 overwrite css/style.css 
+2014-12-09 13:18:02 overwrite css/style.css 
+2014-12-09 13:18:11 identical css/style.css 
+2014-12-09 13:22:37 overwrite css/style.css 
+2014-12-09 13:22:48 overwrite css/style.css 
+2014-12-09 13:40:18 overwrite css/style.css 
+2014-12-09 13:43:36 overwrite css/style.css 
+2014-12-09 13:45:02 overwrite css/style.css 
+2014-12-09 13:45:08 overwrite css/style.css 
+2014-12-09 13:48:11 overwrite css/style.css 
+2014-12-09 13:48:42 overwrite css/style.css 
+2014-12-09 13:49:07 identical css/style.css 
+2014-12-09 13:50:48 overwrite css/style.css 
+2014-12-09 13:51:46 overwrite css/style.css 
+2014-12-09 13:51:55 overwrite css/style.css 
+2014-12-09 13:57:58 overwrite css/style.css 
+2014-12-09 13:58:02 overwrite css/style.css 
+2014-12-09 13:59:28 overwrite css/style.css 
+2014-12-09 13:59:58 overwrite css/style.css 
+2014-12-09 14:00:39 overwrite css/style.css 
+2014-12-09 14:00:53 overwrite css/style.css 
+2014-12-09 14:02:06 overwrite css/style.css 
+2014-12-09 14:05:37 overwrite css/style.css 
+2014-12-09 14:05:56 overwrite css/style.css 
+2014-12-09 14:08:02 overwrite css/style.css 
+2014-12-09 14:09:13 overwrite css/style.css 
+2014-12-09 14:09:33 overwrite css/style.css 
+2014-12-09 14:09:49 overwrite css/style.css 
+2014-12-09 14:11:59 overwrite css/style.css 
+2014-12-09 14:12:10 overwrite css/style.css 
+2014-12-09 14:12:15 overwrite css/style.css 
+2014-12-09 14:12:48 overwrite css/style.css 
+2014-12-09 14:13:03 overwrite css/style.css 
+2014-12-09 14:13:08 overwrite css/style.css 
+2014-12-09 14:16:32 overwrite css/style.css 
+2014-12-09 14:16:57 overwrite css/style.css 
+2014-12-09 14:17:55 overwrite css/style.css 
+2014-12-09 14:18:44 overwrite css/style.css 
+2014-12-09 14:19:00 overwrite css/style.css 
+2014-12-09 14:19:53 overwrite css/style.css 
+2014-12-09 14:20:24 overwrite css/style.css 
+2014-12-09 14:23:04 overwrite css/style.css 
+2014-12-09 14:23:23 overwrite css/style.css 
+2014-12-09 14:23:42 overwrite css/style.css 
+2014-12-09 14:23:44 overwrite css/style.css 
+2014-12-09 14:24:21 overwrite css/style.css 
+2014-12-09 14:25:16 overwrite css/style.css 
+2014-12-09 14:26:37 overwrite css/style.css 
+2014-12-09 14:27:42 identical css/style.css 
+2014-12-09 14:31:02 overwrite css/style.css 
+2014-12-09 14:31:29 overwrite css/style.css 
+2014-12-09 14:31:34 identical css/style.css 
+2014-12-09 14:32:33 identical css/style.css 
+2014-12-09 14:32:53 overwrite css/style.css 
+2014-12-09 14:33:07 overwrite css/style.css 
+2014-12-09 14:34:54 overwrite css/style.css 
+2014-12-09 14:35:27 identical css/style.css 
+2014-12-09 14:36:01 overwrite css/style.css 
+2014-12-09 14:36:20 overwrite css/style.css 
+2014-12-09 14:37:16 identical css/style.css 
+2014-12-09 14:37:21 overwrite css/style.css 
+2014-12-09 14:37:57 overwrite css/style.css 
+2014-12-09 14:39:16 overwrite css/style.css 
+2014-12-09 14:40:02 identical css/style.css 
+2014-12-09 14:40:25 overwrite css/style.css 
+2014-12-09 14:40:47 overwrite css/style.css 
+2014-12-09 14:40:57 overwrite css/style.css 
+2014-12-09 14:41:48 overwrite css/style.css 
+2014-12-09 14:41:53 overwrite css/style.css 
+2014-12-09 14:45:25 identical css/style.css 
+2014-12-09 14:46:04 overwrite css/style.css 
+2014-12-09 14:46:23 overwrite css/style.css 
+2014-12-09 14:46:59 overwrite css/style.css 
+2014-12-09 14:48:46 overwrite css/style.css 
+2014-12-09 14:49:00 overwrite css/style.css 
+2014-12-09 14:49:22 overwrite css/style.css 
+2014-12-09 14:49:38 overwrite css/style.css 
+2014-12-09 14:50:19 overwrite css/style.css 
+2014-12-09 14:50:43 overwrite css/style.css 
+2014-12-09 14:50:44 overwrite css/style.css 
+2014-12-09 14:50:54 overwrite css/style.css 
+2014-12-09 14:52:00 overwrite css/style.css 
+2014-12-09 14:52:18 overwrite css/style.css 
+2014-12-09 14:54:27 overwrite css/style.css 
+2014-12-09 14:55:16 identical css/style.css 
+2014-12-09 14:55:35 identical css/style.css 
+2014-12-09 14:55:44 overwrite css/style.css 
+2014-12-09 14:56:09 overwrite css/style.css 
+2014-12-09 14:56:36 overwrite css/style.css 
+2014-12-09 14:56:56 overwrite css/style.css 
+2014-12-09 14:57:06 overwrite css/style.css 
+2014-12-09 14:57:16 overwrite css/style.css 
+2014-12-09 14:57:32 overwrite css/style.css 
+2014-12-09 14:58:09     error scss/style.scss (Line 689: Invalid CSS after "            width:": expected expression (e.g. 1px, bold), was "}")
+2014-12-09 14:58:09 overwrite css/style.css 
+2014-12-09 14:58:13 overwrite css/style.css 
+2014-12-09 14:58:22 overwrite css/style.css 
+2014-12-09 14:58:38 overwrite css/style.css 
+2014-12-09 14:58:45 overwrite css/style.css 
+2014-12-09 14:59:01 overwrite css/style.css 
+2014-12-09 14:59:37 overwrite css/style.css 
+2014-12-09 15:00:59 overwrite css/style.css 
+2014-12-09 15:01:29 overwrite css/style.css 
+2014-12-09 15:02:22 overwrite css/style.css 
+2014-12-09 15:02:35 overwrite css/style.css 
+2014-12-09 15:08:18 identical css/style.css 
+2014-12-09 15:08:49 identical css/style.css 
+2014-12-09 15:09:10 overwrite css/style.css 
+2014-12-09 15:09:44 overwrite css/style.css 
+2014-12-09 15:09:57 overwrite css/style.css 
+2014-12-09 15:10:58 overwrite css/style.css 
+2014-12-09 15:11:32 overwrite css/style.css 
+2014-12-09 15:12:45 overwrite css/style.css 
+2014-12-09 15:13:13 identical css/style.css 
+2014-12-09 15:13:32 overwrite css/style.css 
+2014-12-09 15:14:39 overwrite css/style.css 
+2014-12-09 15:15:04 overwrite css/style.css 
+2014-12-09 15:15:45 overwrite css/style.css 
+2014-12-09 15:16:50 overwrite css/style.css 
+2014-12-09 15:17:16 overwrite css/style.css 
+2014-12-09 15:17:37 overwrite css/style.css 
+2014-12-09 15:18:00 overwrite css/style.css 
+2014-12-09 15:18:33 overwrite css/style.css 
+2014-12-09 15:18:45 overwrite css/style.css 
+2014-12-09 15:18:58 overwrite css/style.css 
+2014-12-09 15:19:21 overwrite css/style.css 
+2014-12-09 15:19:30 overwrite css/style.css 
+2014-12-09 15:19:37 overwrite css/style.css 
+2014-12-09 15:19:58 overwrite css/style.css 
+2014-12-09 15:20:35 overwrite css/style.css 
+2014-12-09 15:21:13 overwrite css/style.css 
+2014-12-09 15:22:16 overwrite css/style.css 
+2014-12-09 15:22:31 overwrite css/style.css 
+2014-12-09 15:23:00 overwrite css/style.css 
+2014-12-09 15:23:11 overwrite css/style.css 
+2014-12-09 15:23:32 overwrite css/style.css 
+2014-12-09 15:24:08 overwrite css/style.css 
+2014-12-09 15:24:40 overwrite css/style.css 
+2014-12-09 15:25:30 overwrite css/style.css 
+2014-12-09 15:27:11 overwrite css/style.css 
+2014-12-09 15:27:49 overwrite css/style.css 
+2014-12-09 15:28:02 overwrite css/style.css 
+2014-12-09 15:28:20 overwrite css/style.css 
+2014-12-09 15:28:25 overwrite css/style.css 
+2014-12-09 15:28:41 overwrite css/style.css 
+2014-12-09 15:28:58 overwrite css/style.css 
+2014-12-09 15:37:23 overwrite css/style.css 
+2014-12-09 15:41:57 overwrite css/style.css 
+2014-12-09 15:43:29 identical css/style.css 
+2014-12-09 15:44:29 overwrite css/style.css 
+2014-12-09 15:44:48 overwrite css/style.css 
+2014-12-09 15:45:17 overwrite css/style.css 
+2014-12-09 15:45:49 overwrite css/style.css 
+2014-12-09 15:45:56 identical css/style.css 
+2014-12-09 15:47:41 overwrite css/style.css 
+2014-12-09 16:05:20 overwrite css/style.css 
+2014-12-09 16:06:12 overwrite css/style.css 
+2014-12-09 16:06:14 overwrite css/style.css 
+2014-12-09 16:06:40 overwrite css/style.css 
+2014-12-09 16:06:45 overwrite css/style.css 
+2014-12-09 16:06:49 identical css/style.css 
+2014-12-09 16:08:35 overwrite css/style.css 
+2014-12-09 16:10:18 overwrite css/style.css 
+2014-12-09 16:11:31 overwrite css/style.css 
+2014-12-09 16:11:44 overwrite css/style.css 
+2014-12-09 16:12:45 overwrite css/style.css 
+2014-12-09 16:13:58 overwrite css/style.css 
+2014-12-09 16:14:15 overwrite css/style.css 
+2014-12-09 16:14:52 overwrite css/style.css 
+2014-12-09 16:15:53 overwrite css/style.css 
+2014-12-09 16:16:24 overwrite css/style.css 
+2014-12-09 16:16:32 overwrite css/style.css 
+2014-12-09 16:17:45 overwrite css/style.css 
+2014-12-09 16:18:33 overwrite css/style.css 
+2014-12-09 16:18:56 overwrite css/style.css 
+2014-12-09 16:20:04 overwrite css/style.css 
+2014-12-09 16:20:36 overwrite css/style.css 
+2014-12-09 16:21:38 overwrite css/style.css 
+2014-12-09 16:21:47 overwrite css/style.css 
+2014-12-09 16:22:24 overwrite css/style.css 
+2014-12-09 16:22:54 overwrite css/style.css 
+2014-12-09 16:23:17 overwrite css/style.css 
+2014-12-09 16:23:41 overwrite css/style.css 
+2014-12-09 16:23:47 overwrite css/style.css 
+2014-12-09 16:25:15 overwrite css/style.css 
+2014-12-09 16:26:05 overwrite css/style.css 
+2014-12-09 16:26:11 overwrite css/style.css 
+2014-12-09 16:26:21 identical css/style.css 
+2014-12-09 16:27:18 overwrite css/style.css 
+2014-12-09 16:29:10 identical css/style.css 
+2014-12-09 16:30:08 overwrite css/style.css 
+2014-12-09 16:31:00 overwrite css/style.css 
+2014-12-09 16:31:36 overwrite css/style.css 
+2014-12-09 16:31:49 overwrite css/style.css 
+2014-12-09 16:32:07 identical css/style.css 
+2014-12-09 16:33:31 identical css/style.css 
+2014-12-09 16:33:34 identical css/style.css 
+2014-12-09 16:34:26 overwrite css/style.css 
+2014-12-09 16:34:36 overwrite css/style.css 
+2014-12-09 16:34:56 overwrite css/style.css 
+2014-12-09 16:35:02 overwrite css/style.css 
+2014-12-09 16:49:23 overwrite css/style.css 
+2014-12-09 16:50:18 overwrite css/style.css 
+2014-12-09 16:50:33 overwrite css/style.css 
+2014-12-09 16:51:11 overwrite css/style.css 
+2014-12-09 16:53:28 overwrite css/style.css 
