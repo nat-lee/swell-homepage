@@ -65,11 +65,9 @@ $(document).ready(function() {
 
   //fancybox popup for video
   $('.video-link').fancybox({
-    maxWidth:800,
-    maxHeight:600,
-    fitToView:false,
-    width:'70%',
-    height:'70%',
+    // fitToView:true,
+    // width:'100%',
+    // height:'100%',
     autosize:false,
     closeClick:false,
     openEffect:'none',

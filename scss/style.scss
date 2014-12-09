@@ -321,6 +321,7 @@ header{
     }
 
     .slider-nav, .testimonial-nav{
+        text-decoration:none;
         position:absolute;
         bottom:30px;
         left:50%;
@@ -358,6 +359,7 @@ header{
     left:50%;
     margin-left:-40px;
     bottom:115px;
+    text-decoration:none;
 
     &:before{
         content: "\e612";
@@ -430,15 +432,17 @@ header{
                     position:relative;
 
                     &:before{
-                        left:2px;
+                        left:10px;
                         position:absolute;
-                        top:-19px;
+                        top:-7px;
+                        z-index:1000;
+                        text-decoration:none;
                     }
                 }
 
                 .icon-phone:before, .icon-email:before{
                     display:block;
-                    font-size:58px;
+                    font-size:35px;
                     position:absolute;
                 }
                 .icon-phone:before{
@@ -811,6 +815,7 @@ footer{
                     margin-left:0;
                 }
                 a{
+                    text-decoration:none;
                     &:hover{
                       &.icon-facebook, &.icon-twitter, &.icon-youtube{
                         &:before{
@@ -834,6 +839,7 @@ footer{
                             color:$medium-grey;
                             font-size:30px;
                             top:0px;
+                            text-decoration:none;
                         }
                     }
                 }
