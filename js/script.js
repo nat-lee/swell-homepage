@@ -35,15 +35,17 @@ $(document).ready(function() {
             fx:'fade',
             speed: 4000,
             timeout: 800,
+            autostop:1,
+            autostopCount:1,
             prev: '.slider-left',
             next: '.slider-right',
-            pager:  '.slider-nav'
+            pager:  '.slider-nav',
         },
 
-        onFirstImageLoaded: function(){
-          jQuery('.slider-content').hide();
-          jQuery('.slider-content').fadeIn('slow');
-        },
+        // onFirstImageLoaded: function(){
+        //   jQuery('.slider-content').hide();
+        //   jQuery('.slider-content').fadeIn('slow');
+        // },
 
         fillElement: '.home-slider',
 

@@ -220,6 +220,10 @@ header{
 
 .home-slider{
     margin-top:-105px;
+
+    .arrows, .slider-nav{
+        display:none;
+    }
 }
 
 .home-slider, .testimonial-slider{
@@ -1004,6 +1008,11 @@ footer{
 }
 
 @media only screen and (max-width:768px){
+    .home-slider{
+        .mc-image{
+            background-position:10% 0;
+        }
+    }
     .pageview{
         &.scroll-navigation{
             position:static;
@@ -1142,6 +1151,11 @@ footer{
 }
 
 @media only screen and (max-width:400px){
+    .home-slider{
+        .mc-image{
+            background-position:20% 0;
+        }
+    }
     .expert-advice{
         .panel{
             .advice{
