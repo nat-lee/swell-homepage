@@ -3,6 +3,12 @@
 @import "base";
 @import "bootstrap";
 
+//Browser Warning Message for ie8
+#_d{
+    z-index:4000;
+    width:800px !important;
+}
+
 //Navigation
 header{
     position:relative;
@@ -22,25 +28,25 @@ header{
     transition: all 0.5s;
     width:100%;
     position:relative;
-    padding:30px 0 10px 0;
 
     &.scroll-navigation{
         @include background(image-url('navigation-background.png')repeat);
         position:fixed;
-        height:87px;
+        height:70px;
+        padding:21px 0 10px 0;
 
         .icon-swell-logo:before {
             content: "\e600";
-            font-size:250px;
+            font-size:200px;
             position:absolute;
-            top:-83px;
-            left:-40px;
+            top:-67px;
+            left:-35px;
         }
 
         ul.main-navigation{
             li a{
                 &.icon-shop:before{
-                    top:30px;
+                    top:20px;
                 }
             }
         }
@@ -49,6 +55,7 @@ header{
     &.static-navigation{
         background-color:white;
         height:105px;
+        padding:30px 0 10px 0;
 
         .inner{
             padding-top:5px;
@@ -212,7 +219,7 @@ header{
 //Homepage Slider & Testimonial Slider
 
 .home-slider{
-    margin-top:-87px;
+    margin-top:-105px;
 }
 
 .home-slider, .testimonial-slider{
@@ -747,6 +754,7 @@ footer{
                     margin-left:0;
                 }
                 a{
+                    text-transform:uppercase;
                     margin-left:30px;
                     color:$medium-grey;
                     text-decoration:none;

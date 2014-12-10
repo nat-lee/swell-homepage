@@ -65,10 +65,10 @@ $(document).ready(function() {
 
   //fancybox popup for video
   $('.video-link').fancybox({
-    // fitToView:true,
-    // width:'100%',
-    // height:'100%',
-    autosize:false,
+    //fitToView:true,
+    width:'100%',
+    height:'100%',
+    autosize:true,
     closeClick:false,
     openEffect:'none',
     closeEffect:'none',
