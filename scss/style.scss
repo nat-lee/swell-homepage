@@ -480,13 +480,10 @@ header{
             margin-right:2%;
         }
 
-        &.video{
-             background:$body;
-             &:hover{
-                .video-image{
-                    opacity:0.5;
-                }
-             }
+        &.video:hover{
+            .video-link{
+                display:block;
+            }
         }
 
         &.steps:hover{
@@ -519,7 +516,12 @@ header{
             @include background(image-url('swell-steps-hover.png')no-repeat);
         }
 
-        .video-image, .steps-image, .steps-link{
+        .video-link{
+            display:none;
+            @include background(image-url('stay-dry-hover.png')no-repeat);
+        }
+
+        .video-image, .steps-image, .steps-link, .video-link{
             float:left;
             width:100%;
             background-size:contain;
