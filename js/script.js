@@ -84,4 +84,8 @@ $(document).ready(function() {
     }, 1000);
   });
 
+  //thumb click on ipad/iphone
+  $('.thumb').attr("onclick","return true");
+
+
 });

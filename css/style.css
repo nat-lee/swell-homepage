@@ -321,6 +321,7 @@ header {
   position: static !important;
 }
 .home-slider ul .mc-image, .testimonial-slider ul .mc-image {
+  background-position: center bottom;
   width: 100% !important;
 }
 .home-slider ul li img, .testimonial-slider ul li img {
@@ -425,7 +426,7 @@ header {
   bottom: 0;
   left: 50%;
   margin-left: -40px;
-  bottom: 115px;
+  bottom: 140px;
   text-decoration: none;
 }
 .icon-down-button:before {
@@ -861,7 +862,7 @@ footer .copyright a:hover {
   .home-slider, .testimonial-slider {
     height: 500px;
   }
-  .home-slider .mc-image, .testimonial-slider .mc-image {
+  .home-slider ul .mc-image, .testimonial-slider ul .mc-image {
     height: 500px !important;
   }
   .home-slider .arrows, .testimonial-slider .arrows {
@@ -906,6 +907,9 @@ footer .copyright a:hover {
     display: none;
   }
 
+  .home-slider {
+    margin-top: 0px;
+  }
   .home-slider .slider-content {
     display: none;
   }
@@ -937,8 +941,11 @@ footer .copyright a:hover {
   }
 }
 @media only screen and (max-width: 768px) {
-  .home-slider .mc-image {
-    background-position: 10% 0;
+  .home-slider ul .mc-image {
+    background-position: 10% bottom;
+  }
+  .home-slider .icon-down-button {
+    display: none;
   }
 
   .pageview.scroll-navigation {
@@ -998,7 +1005,6 @@ footer .copyright a:hover {
 
   .home-slider {
     height: 400px;
-    margin-top: 0px;
   }
   .home-slider .slider-overlay {
     background: url('../img/black-overlay.png?1418049681') repeat;
@@ -1006,7 +1012,7 @@ footer .copyright a:hover {
     width: 100%;
     display: block;
   }
-  .home-slider .mc-image {
+  .home-slider ul .mc-image {
     height: 400px !important;
   }
   .home-slider .slider-content {
@@ -1047,7 +1053,7 @@ footer .copyright a:hover {
 }
 @media only screen and (max-width: 400px) {
   .home-slider .mc-image {
-    background-position: 20% 0;
+    background-position: 20% bottom;
   }
 
   .expert-advice .panel .advice {

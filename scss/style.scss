@@ -239,6 +239,7 @@ header{
         }
 
         .mc-image{
+            background-position:center bottom;
             width:100% !important;
         }
 
@@ -369,7 +370,7 @@ header{
     bottom:0;
     left:50%;
     margin-left:-40px;
-    bottom:115px;
+    bottom:140px;
     text-decoration:none;
 
     &:before{
@@ -902,7 +903,7 @@ footer{
     .home-slider, .testimonial-slider{
         height:500px;
 
-        .mc-image{
+        ul .mc-image{
             height:500px !important;
         }
 
@@ -965,6 +966,7 @@ footer{
     }
 
     .home-slider{
+        margin-top:0px;
         .slider-content{
             display:none;
 
@@ -1010,8 +1012,11 @@ footer{
 
 @media only screen and (max-width:768px){
     .home-slider{
-        .mc-image{
-            background-position:10% 0;
+        ul .mc-image{
+            background-position:10% bottom;
+        }
+        .icon-down-button{
+            display:none;
         }
     }
     .pageview{
@@ -1084,7 +1089,6 @@ footer{
 
     .home-slider{
         height:400px;
-        margin-top:0px;
 
         .slider-overlay{
         @include background(image-url('black-overlay.png')repeat);
@@ -1093,7 +1097,7 @@ footer{
         display:block;
         }
 
-        .mc-image{
+        ul .mc-image{
             height:400px !important;
         }
 
@@ -1154,7 +1158,7 @@ footer{
 @media only screen and (max-width:400px){
     .home-slider{
         .mc-image{
-            background-position:20% 0;
+            background-position:20% bottom;
         }
     }
     .expert-advice{
