@@ -1304,3 +1304,27 @@ when it has other properties nested beneath it.
 2014-12-16 14:19:40 identical css/style.css 
 2014-12-16 14:19:56 identical css/style.css 
 2014-12-16 14:20:03 identical css/style.css 
+2015-02-09 14:40:21 overwrite css/style.css 
+2015-02-09 14:41:19 overwrite css/style.css 
+2015-02-09 14:42:34 overwrite css/style.css 
+2015-02-09 14:42:50 overwrite css/style.css 
+2015-02-09 14:43:38 overwrite css/style.css 
+2015-02-09 14:45:22 overwrite css/style.css 
+2015-02-09 14:45:39 overwrite css/style.css 
+2015-02-09 14:45:56 overwrite css/style.css 
+2015-02-09 14:46:11 overwrite css/style.css 
+2015-02-09 14:46:20 identical css/style.css 
+2015-02-09 14:46:52 overwrite css/style.css 
+2015-02-09 14:47:03 overwrite css/style.css 
+2015-02-09 14:47:11 overwrite css/style.css 
+2015-02-09 14:47:22     error scss/style.scss (Line 1187: Invalid CSS after "}": expected "}", was "")
+2015-02-09 14:47:22 overwrite css/style.css 
+2015-02-09 14:47:27 overwrite css/style.css 
+2015-02-09 14:47:30 identical css/style.css 
+2015-02-09 14:47:47 overwrite css/style.css 
+2015-02-09 14:48:02 overwrite css/style.css 
+2015-02-09 14:48:28 overwrite css/style.css 
+2015-02-09 15:03:48 overwrite css/style.css 
+2015-02-09 15:03:55 overwrite css/style.css 
+2015-02-09 15:28:34 overwrite css/style.css 
+2015-02-09 15:29:13 overwrite css/style.css 

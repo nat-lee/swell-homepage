@@ -235,6 +235,9 @@ header {
   font-size: 30px;
   margin-left: -26px;
 }
+#nav_primary ul.main-navigation .basket a {
+  color: #ffa02f;
+}
 #nav_primary ul.main-navigation .basket:after {
   content: "|";
   margin-left: 8px;
@@ -287,12 +290,17 @@ header {
 #nav_button:hover {
   color: #ffa02f;
 }
-#nav_button.icon-menu-burger:before {
-  content: "\e605";
+#nav_button.icon-menu-burger {
+  font-size: 13px;
+  text-transform: uppercase;
+  margin: 9px 20px;
 }
 
 #mm-nav_primary.mm-menu {
   background: #373737;
+}
+#mm-nav_primary ul li.basket a {
+  color: #ffa02f;
 }
 #mm-nav_primary ul li a {
   font-weight: normal;
@@ -300,6 +308,10 @@ header {
 }
 #mm-nav_primary ul li a.icon-shop {
   color: #ffa02f;
+}
+
+nav.mm-menu.mm-front.mm-top, .mm-menu.mm-front.mm-bottom {
+  height: 90%;
 }
 
 .home-slider {
@@ -527,7 +539,7 @@ header {
   display: block;
 }
 .thumbnail-buttons .thumb .video-image {
-  background: url('../img/video-image.jpg?1418079167') no-repeat;
+  background: url('../img/video-image.jpg?1421318657') no-repeat;
 }
 .thumbnail-buttons .thumb .steps-image {
   background: url('../img/swell-steps.jpg?1418080382') no-repeat;
@@ -547,7 +559,7 @@ header {
 }
 .thumbnail-buttons .thumb .video-link {
   display: none;
-  background: url('../img/stay-dry-hover.png?1418314374') no-repeat;
+  background: url('../img/stay-dry-hover.png?1421318767') no-repeat;
 }
 .thumbnail-buttons .thumb .video-image, .thumbnail-buttons .thumb .steps-image, .thumbnail-buttons .thumb .steps-link, .thumbnail-buttons .thumb .video-link {
   float: left;

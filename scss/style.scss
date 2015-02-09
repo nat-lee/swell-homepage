@@ -130,6 +130,9 @@ header{
         }
 
         .basket{
+            a{
+                color:$bright-orange;
+            }
             &:after{
                 content:"|";
                 margin-left:8px;
@@ -191,8 +194,13 @@ header{
         color:$bright-orange;
     }
 
-    &.icon-menu-burger:before {
-    content: "\e605";
+    &.icon-menu-burger{
+        font-size:13px;
+        text-transform:uppercase;
+        margin:9px 20px;
+        // &:before {
+        //     content: "\e605";
+        // }
     }
 }
 
@@ -203,6 +211,11 @@ header{
     }
     ul{
         li{
+            &.basket{
+                a{
+                    color:$bright-orange;
+                }
+            }
             a{
                 @extend.helvetica;
                 font-weight:normal;
@@ -214,6 +227,10 @@ header{
             }
         }
     }
+}
+
+nav.mm-menu.mm-front.mm-top, .mm-menu.mm-front.mm-bottom{
+    height:90%;
 }
 
 //Homepage Slider & Testimonial Slider

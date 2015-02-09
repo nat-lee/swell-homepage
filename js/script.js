@@ -2,12 +2,15 @@ $(document).ready(function() {
 
   //mobile navigation
   $("#nav_primary").mmenu({
-     // options
+     offCanvas:{
+      position  : "top",
+      zposition : "front"
+     }
   }, {
      // configuration
      clone: true,
      offCanvas: {
-        pageNodetype: "nav"
+        pageNodetype: "nav",
      }
   });
 
