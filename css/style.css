@@ -72,7 +72,7 @@ textarea {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.helvetica, body, .button, #nav_primary ul li, #mm-nav_primary ul li a, .home-slider .slider-content h1, .testimonial-slider .slider-content h1, .home-slider .slider-content p, .testimonial-slider .slider-content p {
+.helvetica, body, .button, #nav_primary ul li, #mm-nav_primary a.close-menu, #mm-nav_primary ul li a, .home-slider .slider-content h1, .testimonial-slider .slider-content h1, .home-slider .slider-content p, .testimonial-slider .slider-content p {
   font-family: 'Helvetica Neue', Helvetica, Arial, Sans-Serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -128,7 +128,7 @@ a:hover {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.helvetica, body, .button, #nav_primary ul li, #mm-nav_primary ul li a, .home-slider .slider-content h1, .testimonial-slider .slider-content h1, .home-slider .slider-content p, .testimonial-slider .slider-content p {
+.helvetica, body, .button, #nav_primary ul li, #mm-nav_primary a.close-menu, #mm-nav_primary ul li a, .home-slider .slider-content h1, .testimonial-slider .slider-content h1, .home-slider .slider-content p, .testimonial-slider .slider-content p {
   font-family: 'Helvetica Neue', Helvetica, Arial, Sans-Serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -200,6 +200,9 @@ header {
   width: 90%;
   float: right;
   display: block;
+}
+#nav_primary a.close-menu {
+  display: none;
 }
 #nav_primary ul li {
   display: inline-block;
@@ -298,6 +301,16 @@ header {
 
 #mm-nav_primary.mm-menu {
   background: #373737;
+}
+#mm-nav_primary a.close-menu {
+  text-transform: uppercase;
+  color: white;
+  text-decoration: none;
+  font-size: 13px;
+  float: right;
+}
+#mm-nav_primary a.close-menu:hover {
+  color: #ffa02f;
 }
 #mm-nav_primary ul li.basket a {
   color: #ffa02f;

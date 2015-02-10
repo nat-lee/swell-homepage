@@ -89,6 +89,10 @@ header{
     float:right;
     display:block;
 
+    a.close-menu{
+        display:none;
+    }
+
     ul{
         li{
             display:inline-block;
@@ -209,6 +213,20 @@ header{
     &.mm-menu{
         background:$body;
     }
+
+     a.close-menu{
+        @extend.helvetica;
+        text-transform:uppercase;
+        color:white;
+        text-decoration:none;
+        font-size:13px;
+        float:right;
+
+        &:hover{
+            color:$bright-orange;
+        }
+    }
+
     ul{
         li{
             &.basket{

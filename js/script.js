@@ -32,6 +32,12 @@ $(document).ready(function() {
     $('#nav_primary').trigger("open.mm");
   });
 
+  //mobile navigation close button
+  $('.close-menu').click(function(){
+    //alert('click);
+    $('#mm-nav_primary').trigger("close.mm");
+  });
+
   $(function () {
     $('.cycle-slideshow').maximage({
         cycleOptions: {
